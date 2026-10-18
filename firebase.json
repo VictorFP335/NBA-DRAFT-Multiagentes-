@@ -1,0 +1,30 @@
+{
+  "hosting": {
+    "site": "nba-draft-war-room",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      ".firebaserc",
+      "firebase-debug.log",
+      "**/.*",
+      "**/node_modules/**",
+      "prompts/**",
+      "scripts/**",
+      "utils/**",
+      "*.py",
+      "requirements.txt",
+      "*.md"
+    ],
+    "headers": [
+      {
+        "source": "**/*.@(jpg|jpeg|gif|png|svg|webp|js|css)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=86400"
+          }
+        ]
+      }
+    ]
+  }
+}

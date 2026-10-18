@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="fcbShield">
+      <path d="M20,20 L100,20 Q100,75 60,110 Q20,75 20,20 Z"/>
+    </clipPath>
+  </defs>
+  <!-- Shield Outline -->
+  <path d="M18,18 L102,18 Q102,77 60,113 Q18,77 18,18 Z" fill="#EAB308" stroke="#A16207" stroke-width="2"/>
+  <g clip-path="url(#fcbShield)">
+    <!-- Top Left St George Cross -->
+    <rect x="20" y="20" width="40" height="30" fill="#FFFFFF"/>
+    <rect x="36" y="20" width="8" height="30" fill="#DC2626"/>
+    <rect x="20" y="31" width="40" height="8" fill="#DC2626"/>
+    <!-- Top Right Catalan Senyera -->
+    <rect x="60" y="20" width="40" height="30" fill="#EAB308"/>
+    <rect x="68" y="20" width="5" height="30" fill="#DC2626"/>
+    <rect x="78" y="20" width="5" height="30" fill="#DC2626"/>
+    <rect x="88" y="20" width="5" height="30" fill="#DC2626"/>
+    <!-- Middle Gold Divider -->
+    <rect x="20" y="50" width="80" height="8" fill="#EAB308"/>
+    <text x="60" y="57" font-family="'Arial Black', sans-serif" font-size="7" font-weight="bold" fill="#1E1B4B" text-anchor="middle">FCB BASKET</text>
+    <!-- Bottom Blaugrana Stripes -->
+    <rect x="20" y="58" width="80" height="55" fill="#1E3A8A"/>
+    <rect x="33" y="58" width="13" height="55" fill="#991B1B"/>
+    <rect x="60" y="58" width="13" height="55" fill="#991B1B"/>
+    <rect x="87" y="58" width="13" height="55" fill="#991B1B"/>
+    <!-- Central Basketball -->
+    <circle cx="60" cy="85" r="14" fill="#F97316" stroke="#9A3412" stroke-width="1.5"/>
+    <path d="M46,85 Q60,80 74,85 M60,71 L60,99" stroke="#9A3412" stroke-width="1.2" fill="none"/>
+  </g>
+</svg>

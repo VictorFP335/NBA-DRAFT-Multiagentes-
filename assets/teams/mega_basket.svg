@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect x="15" y="15" width="90" height="90" rx="22" fill="#EC4899" stroke="#FDE047" stroke-width="4"/>
+  <circle cx="60" cy="52" r="24" fill="#FACC15"/>
+  <text x="60" y="59" font-family="'Arial Black', sans-serif" font-size="14" font-weight="900" fill="#BE185D" text-anchor="middle">MEGA</text>
+  <text x="60" y="86" font-family="'Arial Black', sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">BASKET</text>
+  <text x="60" y="97" font-family="'Arial', sans-serif" font-size="7" font-weight="bold" fill="#FDE047" text-anchor="middle">SÉRVIA (ABA)</text>
+</svg>

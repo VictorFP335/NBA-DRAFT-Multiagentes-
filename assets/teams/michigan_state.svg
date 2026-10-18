@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect x="10" y="10" width="100" height="100" rx="16" fill="#18453B" stroke="#FFFFFF" stroke-width="3"/>
+  <!-- Spartan Helmet -->
+  <path d="M60,26 Q76,26 76,46 L76,60 L68,60 L68,48 Q68,40 60,40 Q52,40 52,48 L52,60 L44,60 L44,46 Q44,26 60,26 Z" fill="#FFFFFF"/>
+  <path d="M50,60 L70,60 L66,78 L54,78 Z" fill="#FFFFFF"/>
+  <text x="60" y="98" font-family="'Arial Black', sans-serif" font-size="9" font-weight="bold" fill="#FFFFFF" text-anchor="middle">SPARTANS</text>
+</svg>

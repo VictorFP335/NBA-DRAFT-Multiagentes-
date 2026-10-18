@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#bgGrad)"/>
+  
+  <!-- Subtle Court Lines -->
+  <circle cx="150" cy="200" r="100" stroke="#334155" stroke-width="2" fill="none" opacity="0.4"/>
+  <line x1="0" y1="200" x2="300" y2="200" stroke="#334155" stroke-width="2" opacity="0.4"/>
+  <path d="M75,0 L75,100 L225,100 L225,0" stroke="#334155" stroke-width="2" fill="none" opacity="0.4"/>
+  
+  <!-- Silhouette Player Jersey -->
+  <g transform="translate(150, 190)">
+    <!-- Head / Silhouette -->
+    <circle cx="0" cy="-60" r="30" fill="#475569"/>
+    <!-- Jersey Body -->
+    <path d="M-55,-20 L-40,90 L40,90 L55,-20 L25,-25 Q0,0 -25,-25 Z" fill="#1e293b" stroke="url(#glow)" stroke-width="3"/>
+    <!-- Collar -->
+    <path d="M-25,-25 Q0,0 25,-25" fill="none" stroke="url(#glow)" stroke-width="3"/>
+    <!-- Armhole Cutouts -->
+    <path d="M-55,-20 Q-35,10 -40,35" fill="none" stroke="url(#glow)" stroke-width="2"/>
+    <path d="M55,-20 Q35,10 40,35" fill="none" stroke="url(#glow)" stroke-width="2"/>
+    <!-- Basketball icon on chest -->
+    <circle cx="0" cy="30" r="18" fill="none" stroke="#f59e0b" stroke-width="2"/>
+    <path d="M-18,30 Q0,20 18,30 M0,12 L0,48" stroke="#f59e0b" stroke-width="1.5" fill="none"/>
+  </g>
+  <text x="150" y="340" font-family="'Inter', system-ui, sans-serif" font-size="14" font-weight="700" fill="#94a3b8" text-anchor="middle" letter-spacing="2">PRÉ-DRAFT PROSPECT</text>
+</svg>

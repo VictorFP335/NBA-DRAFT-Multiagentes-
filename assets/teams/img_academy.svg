@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect x="10" y="10" width="100" height="100" rx="16" fill="#0F172A" stroke="#0284C7" stroke-width="4"/>
+  <polygon points="60,25 85,55 35,55" fill="#0284C7"/>
+  <text x="60" y="74" font-family="'Arial Black', sans-serif" font-size="16" font-weight="900" fill="#FFFFFF" text-anchor="middle">IMG</text>
+  <text x="60" y="90" font-family="'Arial Black', sans-serif" font-size="8" font-weight="bold" fill="#38BDF8" text-anchor="middle">ACADEMY</text>
+  <text x="60" y="100" font-family="'Arial', sans-serif" font-size="6.5" font-weight="bold" fill="#94A3B8" text-anchor="middle">PREP HIGH SCHOOL</text>
+</svg>

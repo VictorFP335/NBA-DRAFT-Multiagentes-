@@ -199,7 +199,7 @@ Para investigar esse desafio, desenvolvi o "NBA Draft War Room (2017-2019)", um 
 - Arquitetura dual: Motor cognitivo offline (zero custo) + suporte nativo a OpenAI LLM
 
 O código completo, datasets pré-draft e o relatório final de deliberação estão disponíveis no GitHub:
-🔗 [Link do seu repositório no GitHub]
+🔗 https://github.com/VictorFP335/NBA-DRAFT-Multiagentes-
 
 #InteligenciaArtificial #MultiAgentSystems #Python #DataScience #NBAAnalytics #PromptEngineering #GenerativeAI #MachineLearning #SoftwareEngineering
 ```
@@ -208,6 +208,4 @@ O código completo, datasets pré-draft e o relatório final de deliberação es
 
 ## 📜 Licença
 
-Distribuído sob a licença MIT. Sinta-se livre para utilizar, expandir e adaptar para outras ligas esportivas ou casos de uso corporativo!
-#   N B A - D R A F T - M u l t i a g e n t e s -  
- 
+Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.

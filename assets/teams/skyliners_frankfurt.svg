@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <path d="M20,20 L100,20 L85,105 L35,105 Z" fill="#0284C7" stroke="#38BDF8" stroke-width="3"/>
+  <polygon points="60,25 90,85 30,85" fill="#0369A1"/>
+  <text x="60" y="55" font-family="'Arial Black', sans-serif" font-size="12" font-weight="900" fill="#FFFFFF" text-anchor="middle">SKYLINERS</text>
+  <text x="60" y="72" font-family="'Arial Black', sans-serif" font-size="9" font-weight="bold" fill="#BAE6FD" text-anchor="middle">FRANKFURT</text>
+  <text x="60" y="95" font-family="'Arial', sans-serif" font-size="7" font-weight="bold" fill="#FFFFFF" text-anchor="middle">GERMANY BBL</text>
+</svg>

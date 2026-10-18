@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🏀 NBA Draft War Room | Scouting Hub Pré-Draft (NCAA & Internacional)</title>
+  <meta name="description" content="Interface gráfica interativa com fotos dos jogadores na época pré-draft e seus times de origem (NCAA e Estrangeiros como Luka Dončić no Real Madrid).">
+  
+  <!-- Google Fonts: Outfit & Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+  <!-- Top Sticky Navigation Bar -->
+  <header class="app-header">
+    <div class="container header-content">
+      <a href="#" class="brand">
+        <div class="brand-icon-wrapper">🏀</div>
+        <div class="brand-text">
+          <h1>NBA DRAFT WAR ROOM</h1>
+          <p>Multi-Agent Autonomous Scouting Hub</p>
+        </div>
+      </a>
+
+      <div class="header-actions">
+        <div class="live-badge">
+          <span class="live-pulse"></span>
+          <span>120 Atletas Pré-Draft</span>
+        </div>
+        <button id="compareLauncherBtn" class="compare-launcher-btn" type="button">
+          <span>⚔️</span> Comparar Prospectos
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- Hero Showcase: The European Phenomenon vs NCAA Big Men -->
+    <section class="hero-showcase">
+      <div class="showcase-banner">
+        <div class="showcase-grid">
+          
+          <div class="showcase-info">
+            <span class="showcase-tag">⚡ Dossiê em Destaque • Draft 2018</span>
+            <h2 class="showcase-title">
+              O Fenômeno Europeu vs <span class="highlight">A Armadilha da NCAA</span>
+            </h2>
+            <p class="showcase-desc">
+              Em 2018, franquias da NBA ignoraram <strong>Luka Dončić</strong> (campeão e MVP da EuroLeague pelo <strong>Real Madrid</strong> aos 19 anos) para selecionar pivôs tradicionais da NCAA como Deandre Ayton e Marvin Bagley III. Veja como o sistema multiagente de IA acertou na deliberação histórica.
+            </p>
+
+            <div class="showcase-stats-summary">
+              <div class="summary-pill">
+                <span class="label">Luka Dončić (Real Madrid)</span>
+                <span class="val gold">9.8 ⭐ Tier 1</span>
+              </div>
+              <div class="summary-pill">
+                <span class="label">BPM Projetado na Europa</span>
+                <span class="val blue">+14.5 (vs Homens Adultos)</span>
+              </div>
+              <div class="summary-pill">
+                <span class="label">Marvin Bagley III (Duke)</span>
+                <span class="val green" style="color: #ef4444;">5.7 ⚠️ Bust Alert</span>
+              </div>
+            </div>
+
+            <div class="showcase-cta-group">
+              <button id="heroCompareBtn" class="btn-primary" type="button">
+                <span>⚔️</span> Abrir Confronto Direto: Luka vs Bagley
+              </button>
+              <a href="#prospectsGrid" class="btn-outline">
+                <span>📂</span> Explorar Todos os 120 Prospectos
+              </a>
+            </div>
+          </div>
+
+          <!-- Featured Mini Cards: Luka Dončić & Marvin Bagley III -->
+          <div class="showcase-spotlight-cards">
+            
+            <!-- Luka Doncic -->
+            <div class="mini-spotlight-card luka" onclick="window.openPlayerModalByName('Luka Dončić')">
+              <div class="spotlight-thumb-wrap">
+                <img src="assets/players/luka_doncic.jpg" alt="Luka Dončić no Real Madrid" onerror="this.src='assets/players/default_player.svg'">
+                <div class="spotlight-tier-tag">TIER 1 • 9.8 ⭐</div>
+                <div class="spotlight-origin-badge">
+                  <img src="assets/teams/real_madrid.svg" alt="Real Madrid" onerror="this.style.display='none'">
+                  <span>🇪🇸 Real Madrid (EuroLeague)</span>
+                </div>
+              </div>
+              <div class="spotlight-name">Luka Dončić</div>
+              <div class="spotlight-sub">19.3 anos • PG/SF • Real Madrid #7</div>
+              <div class="spotlight-verdict">
+                <strong>War Room:</strong> Cornerstone Histórico Geracional. MVP europeu de 103kg com visão heliocêntrica.
+              </div>
+            </div>
+
+            <!-- Marvin Bagley III -->
+            <div class="mini-spotlight-card" onclick="window.openPlayerModalByName('Marvin Bagley III')">
+              <div class="spotlight-thumb-wrap">
+                <img src="assets/players/marvin_bagley_iii.jpg" alt="Marvin Bagley III em Duke" onerror="this.src='assets/players/default_player.svg'">
+                <div class="spotlight-tier-tag bust">TIER 4 • 5.7 ⚠️</div>
+                <div class="spotlight-origin-badge">
+                  <img src="assets/teams/duke.svg" alt="Duke" onerror="this.style.display='none'">
+                  <span>🇺🇸 Duke (NCAA)</span>
+                </div>
+              </div>
+              <div class="spotlight-name">Marvin Bagley III</div>
+              <div class="spotlight-sub">19.3 anos • PF/C • Duke Blue Devils</div>
+              <div class="spotlight-verdict">
+                <strong>War Room:</strong> Alerta Vermelho de Bust. Monodestro, 0.65 AST/TO e proteção frágil de aro.
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Filters and Search Section -->
+    <section class="filter-section">
+      
+      <!-- Top Row: Search and Year Tabs -->
+      <div class="filter-top-row">
+        
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" placeholder="Buscar atleta, faculdade (Duke, UCLA...) ou clube europeu (Real Madrid, Barcelona...)" autocomplete="off">
+          <button id="clearSearchBtn" class="clear-search" type="button" title="Limpar busca">✕</button>
+        </div>
+
+        <div class="draft-year-tabs">
+          <button class="tab-btn active" data-year="all" type="button">Todas as Classes</button>
+          <button class="tab-btn" data-year="2018" type="button">Draft 2018 (60)</button>
+          <button class="tab-btn" data-year="2017" type="button">Draft 2017 (60)</button>
+        </div>
+
+      </div>
+
+      <!-- Origin Category Tabs (User's Core Requirement) -->
+      <div class="origin-tabs-wrapper">
+        <div class="origin-tabs-label">
+          <span>🏛️ Filtrar por Origem Pré-Draft:</span>
+        </div>
+        <div class="origin-tabs">
+          <button class="origin-tab-btn active" data-origin-type="all" type="button">
+            <span>🌟 Todos os Prospectos</span>
+            <span class="tab-counter">120</span>
+          </button>
+          <button class="origin-tab-btn euro" data-origin-type="International" type="button">
+            <span>🌍 Clubes Estrangeiros / Europa (ex: Real Madrid, Strasbourg...)</span>
+            <span class="tab-counter">15</span>
+          </button>
+          <button class="origin-tab-btn" data-origin-type="NCAA" type="button">
+            <span>🎓 NCAA Division I (Duke, Kentucky, UCLA, Arizona...)</span>
+            <span class="tab-counter">103</span>
+          </button>
+          <button class="origin-tab-btn" data-origin-type="High School" type="button">
+            <span>🏫 High School & Prep (Chalmette, IMG Academy)</span>
+            <span class="tab-counter">2</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Secondary Filters: Position, Tier & Sorting -->
+      <div class="filter-secondary-row">
+        
+        <div class="filter-group-dropdowns">
+          <!-- Position Dropdown -->
+          <div class="custom-select-wrapper">
+            <select id="positionSelect" aria-label="Filtrar por Posição">
+              <option value="all">Todas as Posições</option>
+              <option value="PG">Point Guard (PG)</option>
+              <option value="SG">Shooting Guard (SG)</option>
+              <option value="SF">Small Forward (SF)</option>
+              <option value="PF">Power Forward (PF)</option>
+              <option value="C">Center (C)</option>
+            </select>
+          </div>
+
+          <!-- Tier Dropdown -->
+          <div class="custom-select-wrapper">
+            <select id="tierSelect" aria-label="Filtrar por Tier War Room">
+              <option value="all">Todos os Tiers do GM</option>
+              <option value="tier-1">Tier 1: Geracional (9.0+ ⭐)</option>
+              <option value="tier-2">Tier 2: All-Star (8.0 - 8.9)</option>
+              <option value="tier-3">Tier 3: Titular/Rotação (6.8 - 7.9)</option>
+              <option value="tier-4">Tier 4: Risco / Bust Hazard (&lt; 6.8)</option>
+            </select>
+          </div>
+
+          <!-- Sort Dropdown -->
+          <div class="custom-select-wrapper">
+            <select id="sortSelect" aria-label="Ordenar por">
+              <option value="gm_score_desc">Ordenar: Nota War Room (Maior)</option>
+              <option value="pick_asc">Ordenar: Pick do Draft (#1 - #60)</option>
+              <option value="pts_desc">Ordenar: Pontos Pré-Draft (PTS)</option>
+              <option value="ts_desc">Ordenar: Eficiência (TS%)</option>
+              <option value="bpm_desc">Ordenar: BPM Projetado</option>
+              <option value="name_asc">Ordenar: Nome do Atleta (A-Z)</option>
+            </select>
+          </div>
+        </div>
+
+        <div id="resultsCount" class="results-count-text">
+          Exibindo <strong>120</strong> de <strong>120</strong> atletas pré-draft
+        </div>
+
+      </div>
+
+    </section>
+
+    <!-- Main Prospects Grid -->
+    <section id="prospectsGrid" class="prospects-grid">
+      <!-- Dynamically Populated by app.js -->
+    </section>
+
+  </main>
+
+  <!-- Detailed Prospect Dossier Modal -->
+  <div id="dossierModal" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="modalPlayerTitle">
+    <div class="modal-container">
+      <button id="modalCloseBtn" class="modal-close-btn" type="button" aria-label="Fechar modal">✕</button>
+
+      <!-- Modal Hero Section -->
+      <div class="modal-hero">
+        <div class="modal-player-portrait">
+          <img id="modalPortrait" src="assets/players/default_player.svg" alt="Foto Pré-Draft" onerror="this.src='assets/players/default_player.svg'">
+        </div>
+
+        <div class="modal-hero-info">
+          <div id="modalBadges" class="modal-hero-badges"></div>
+          <h2 id="modalPlayerTitle" class="modal-player-title">Nome do Jogador</h2>
+          
+          <div id="modalOriginBanner" class="modal-player-origin-banner"></div>
+
+          <div id="modalBiometrics" class="modal-biometrics-row"></div>
+        </div>
+      </div>
+
+      <!-- Modal Body -->
+      <div class="modal-body">
+        
+        <!-- Tab Buttons -->
+        <div class="modal-nav-tabs">
+          <button class="modal-tab-btn active" data-tab="warRoom" type="button">
+            🏛️ Deliberação Multiagente (War Room)
+          </button>
+          <button class="modal-tab-btn" data-tab="stats" type="button">
+            📊 Biometria & Estatísticas
+          </button>
+          <button class="modal-tab-btn" data-tab="reality" type="button">
+            📜 Realidade Histórica NBA
+          </button>
+        </div>
+
+        <!-- Tab 1: War Room Panel -->
+        <div id="warRoomPanel" class="modal-tab-panel active"></div>
+
+        <!-- Tab 2: Stats Panel -->
+        <div id="statsPanel" class="modal-tab-panel"></div>
+
+        <!-- Tab 3: Reality Panel -->
+        <div id="realityPanel" class="modal-tab-panel"></div>
+
+        <!-- Live Simulation Interactive Panel -->
+        <div id="liveSimulationContainer" class="live-simulation-container">
+          <div class="live-sim-header">
+            <div class="live-sim-title">
+              <span>🎙️</span> Reunião Autônoma da War Room (Tempo Real)
+            </div>
+            <div class="live-sim-status">
+              <span class="live-pulse"></span>
+              <span id="liveSimStatusText">Debate em Andamento...</span>
+            </div>
+          </div>
+          <div id="simMessagesStream" class="sim-messages-stream"></div>
+        </div>
+
+        <!-- Action bar at bottom of modal -->
+        <div style="margin-top: 24px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; border-top: 1px solid var(--border-color); padding-top: 18px;">
+          <button id="modalSimulateLiveBtn" class="btn-outline" type="button" style="border-color: var(--accent-gold); color: var(--accent-gold-light);">
+            <span>🎙️</span> Simular Reunião dos Agentes ao Vivo
+          </button>
+          <button id="modalCompareBtn" class="btn-primary" type="button">
+            <span>⚔️</span> Comparar com Rival Direto
+          </button>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Head-to-Head Comparison Modal -->
+  <div id="compareModal" class="modal-backdrop" role="dialog" aria-modal="true" aria-label="Comparativo Direto">
+    <div class="modal-container compare-modal-container">
+      <button id="compareCloseBtn" class="modal-close-btn" type="button" aria-label="Fechar confronto">✕</button>
+
+      <div style="padding: 28px 32px 14px 32px; border-bottom: 1px solid var(--border-color);">
+        <h2 style="font-size: 1.6rem; font-weight: 800; color: #fff; margin-bottom: 6px; display: flex; align-items: center; gap: 10px;">
+          <span>⚔️</span> Confronto Direto Pré-Draft: Head-to-Head
+        </h2>
+        <p style="color: var(--text-secondary); font-size: 0.88rem;">
+          Compare qualquer atleta da NCAA ou clubes internacionais lado a lado com métricas e notas da War Room.
+        </p>
+
+        <!-- Preset Duels -->
+        <div style="margin-top: 16px;">
+          <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; font-weight: 700; margin-bottom: 8px;">
+            Confrontos Históricos Rápidos:
+          </div>
+          <div class="preset-matchups-row">
+            <button class="preset-btn active" data-matchup="luka-bagley" type="button">
+              Luka Dončić (Real Madrid) vs Marvin Bagley III (Duke)
+            </button>
+            <button class="preset-btn" data-matchup="tatum-fultz" type="button">
+              Jayson Tatum (Duke) vs Markelle Fultz (Washington)
+            </button>
+            <button class="preset-btn" data-matchup="trae-sexton" type="button">
+              Trae Young (Oklahoma) vs Collin Sexton (Alabama)
+            </button>
+            <button class="preset-btn" data-matchup="mitchell-ntilikina" type="button">
+              Donovan Mitchell (Louisville) vs Frank Ntilikina (SIG Strasbourg)
+            </button>
+            <button class="preset-btn" data-matchup="ayton-jjj" type="button">
+              Deandre Ayton (Arizona) vs Jaren Jackson Jr. (Michigan State)
+            </button>
+          </div>
+        </div>
+
+        <!-- Custom Selectors -->
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 14px;">
+          <div class="custom-select-wrapper" style="width: 100%;">
+            <select id="selectPlayerA" style="width: 100%;" aria-label="Selecionar Jogador 1"></select>
+          </div>
+          <div class="custom-select-wrapper" style="width: 100%;">
+            <select id="selectPlayerB" style="width: 100%;" aria-label="Selecionar Jogador 2"></select>
+          </div>
+        </div>
+      </div>
+
+      <div style="padding: 28px 32px;">
+        <!-- Dual Fighter Cards -->
+        <div id="compareDuelGrid" class="compare-duel-grid"></div>
+
+        <!-- Metrics Comparison Bars -->
+        <div id="compareBarsList" class="compare-bars-list"></div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- App Footer -->
+  <footer class="app-footer">
+    <div class="container footer-content">
+      <div>
+        <p style="font-weight: 700; color: #fff; margin-bottom: 4px;">🏀 NBA Draft War Room • Multi-Agent Autonomous Scouting System</p>
+        <p style="font-size: 0.8rem; color: var(--text-muted);">
+          Inspirado no padrão PokéIA de agentes complementares com incentivos conflitantes (Dr. Marcus Vance, Coach Frank Sullivan, Elena Rostova e GM Brad Stevens).
+        </p>
+      </div>
+      <div class="footer-links">
+        <a href="#prospectsGrid">Explorar Prospectos</a>
+        <a href="#" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;">Voltar ao Topo ↑</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Helper for opening modal from inline onclick -->
+  <script>
+    window.openPlayerModalByName = function(name) {
+      if (window.PROSPECTS_DATA) {
+        const p = window.PROSPECTS_DATA.find(x => x.player === name);
+        if (p && typeof window.openModalGlobal === 'function') {
+          window.openModalGlobal(p);
+        }
+      }
+    };
+  </script>
+
+  <!-- Load prospects data directly as JS variable for 100% offline & local file:// support -->
+  <script src="data/prospects_data.js"></script>
+  <!-- Main Application Logic -->
+  <script src="app.js"></script>
+
+  <!-- Bridge helper -->
+  <script>
+    // Expose openModal for inline helper
+    document.addEventListener('DOMContentLoaded', () => {
+      const card = document.querySelector(`[data-player="Luka Dončić"]`);
+      window.openModalGlobal = function(player) {
+        const target = document.querySelector(`[data-player="${player.player}"]`);
+        if (target) target.click();
+      };
+    });
+  </script>
+</body>
+</html>

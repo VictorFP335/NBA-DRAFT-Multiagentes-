@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "flutterfirecli-147ed"
+  },
+  "targets": {
+    "flutterfirecli-147ed": {
+      "hosting": {
+        "nba-draft": [
+          "nba-draft-war-room"
+        ]
+      }
+    }
+  }
+}

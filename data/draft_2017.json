@@ -1,0 +1,2917 @@
+[
+  {
+    "player": "Markelle Fultz",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 1,
+    "position": "PG/SG",
+    "target_team_and_pick": "Philadelphia 76ers (#1)",
+    "origin": "Washington",
+    "age_at_draft": 19.0,
+    "biometrics": {
+      "height": "6'4\"",
+      "wingspan": "6'9.75\"",
+      "weight": "195 lbs",
+      "vertical_max": "39.0 in",
+      "wingspan_differential": "+5.75 in"
+    },
+    "stats": {
+      "PTS": 23.2,
+      "AST": 5.9,
+      "REB": 5.7,
+      "STL": 1.6,
+      "BLK": 1.2,
+      "TS%": 55.8,
+      "eFG%": 53.5,
+      "USG%": 31.4,
+      "AST_TO": 1.84,
+      "3P%": 41.3,
+      "3PA": 5.0,
+      "FT%": 64.9,
+      "FTA": 6.7,
+      "BPM_est": 10.3
+    },
+    "scout_reports": {
+      "strengths": [
+        "Pull-up shooting de 3 níveis",
+        "Envergadura de 6'9.75\"",
+        "Paciência no PnR"
+      ],
+      "concerns": [
+        "FT% de 64.9%",
+        "Equipe 9-22",
+        "Relatos de dores no ombro pré-draft"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #1 (PHI)",
+      "career_arc": "Síndrome do desfiladeiro torácico e perda do arremesso; recuperou papel como reserva no Magic.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Bust em relação à expectativa de Pick #1"
+    }
+  },
+  {
+    "player": "Lonzo Ball",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 2,
+    "position": "PG",
+    "target_team_and_pick": "Los Angeles Lakers (#2)",
+    "origin": "UCLA",
+    "age_at_draft": 19.6,
+    "biometrics": {
+      "height": "6'6\"",
+      "wingspan": "6'9.0\"",
+      "weight": "190 lbs",
+      "vertical_max": "40.5 in",
+      "wingspan_differential": "+3.0 in"
+    },
+    "stats": {
+      "PTS": 14.6,
+      "AST": 7.6,
+      "REB": 6.0,
+      "STL": 1.8,
+      "BLK": 0.8,
+      "TS%": 66.8,
+      "eFG%": 67.3,
+      "USG%": 18.1,
+      "AST_TO": 3.14,
+      "3P%": 41.2,
+      "3PA": 5.4,
+      "FT%": 67.3,
+      "FTA": 2.7,
+      "BPM_est": 12.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Visão de passe em transição genial",
+        "AST/TO de 3.14",
+        "TS% histórico de 66.8%"
+      ],
+      "concerns": [
+        "Mecânica de tiro heterodoxa cruzando o rosto",
+        "Sem isolação de meia quadra",
+        "Apenas 2.7 lances livres/jogo"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #2 (LAL)",
+      "career_arc": "Conector e defensor de elite em LA, NOP e CHI; severamente prejudicado por lesões de cartilagem no joelho.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Starter All-Defensive de elite / Lesões crônicas"
+    }
+  },
+  {
+    "player": "Jayson Tatum",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 3,
+    "position": "SF",
+    "target_team_and_pick": "Boston Celtics (#3)",
+    "origin": "Duke",
+    "age_at_draft": 19.3,
+    "biometrics": {
+      "height": "6'8.25\"",
+      "wingspan": "6'11.0\"",
+      "weight": "205 lbs",
+      "vertical_max": "37.0 in",
+      "wingspan_differential": "+2.75 in"
+    },
+    "stats": {
+      "PTS": 16.8,
+      "AST": 2.1,
+      "REB": 7.3,
+      "STL": 1.3,
+      "BLK": 1.1,
+      "TS%": 56.7,
+      "eFG%": 50.8,
+      "USG%": 26.2,
+      "AST_TO": 0.81,
+      "3P%": 34.2,
+      "3PA": 3.2,
+      "FT%": 84.9,
+      "FTA": 4.8,
+      "BPM_est": 8.5
+    },
+    "scout_reports": {
+      "strengths": [
+        "Footwork cirúrgico em 1x1",
+        "FT% de 84.9% (melhor preditor de 3P)",
+        "Two-way wing clássico"
+      ],
+      "concerns": [
+        "Volume de long 2s contestados",
+        "AST/TO negativo em Duke (0.81)"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #3 (BOS)",
+      "career_arc": "Superestrela, All-NBA 1st Team perene, Campeão da NBA em 2024 pelos Celtics.",
+      "all_star_appearances": 5,
+      "historical_verdict": "Superstar / Campeão NBA 2024 / Top 1 da classe"
+    }
+  },
+  {
+    "player": "Josh Jackson",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 4,
+    "position": "SF",
+    "target_team_and_pick": "Phoenix Suns (#4)",
+    "origin": "Kansas",
+    "age_at_draft": 20.3,
+    "biometrics": {
+      "height": "6'8\"",
+      "wingspan": "6'9.75\"",
+      "weight": "207 lbs",
+      "vertical_max": "38.0 in",
+      "wingspan_differential": "+1.75 in"
+    },
+    "stats": {
+      "PTS": 16.3,
+      "AST": 3.0,
+      "REB": 7.4,
+      "STL": 1.7,
+      "BLK": 1.1,
+      "TS%": 55.6,
+      "eFG%": 54.3,
+      "USG%": 27.2,
+      "AST_TO": 1.07,
+      "3P%": 37.8,
+      "3PA": 2.6,
+      "FT%": 56.6,
+      "FTA": 4.9,
+      "BPM_est": 8.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Motor atlético explosivo",
+        "Agressividade no ataque ao aro",
+        "Playmaking secundário para ala"
+      ],
+      "concerns": [
+        "Mecânica de arremesso hitch grave",
+        "FT% terrível de 56.6%",
+        "Problemas disciplinares fora de quadra"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #4 (PHX)",
+      "career_arc": "Fracassou como arremessador na NBA; atritos de vestiário e fora da liga rapidamente.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Colossal Bust / Fora da liga"
+    }
+  },
+  {
+    "player": "De'Aaron Fox",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 5,
+    "position": "PG",
+    "target_team_and_pick": "Sacramento Kings (#5)",
+    "origin": "Kentucky",
+    "age_at_draft": 19.5,
+    "biometrics": {
+      "height": "6'3.25\"",
+      "wingspan": "6'6.5\"",
+      "weight": "170 lbs",
+      "vertical_max": "38.5 in",
+      "wingspan_differential": "+3.25 in"
+    },
+    "stats": {
+      "PTS": 16.7,
+      "AST": 4.6,
+      "REB": 4.0,
+      "STL": 1.5,
+      "BLK": 0.2,
+      "TS%": 54.9,
+      "eFG%": 49.6,
+      "USG%": 28.5,
+      "AST_TO": 1.92,
+      "3P%": 24.6,
+      "3PA": 1.9,
+      "FT%": 73.6,
+      "FTA": 5.9,
+      "BPM_est": 8.0
+    },
+    "scout_reports": {
+      "strengths": [
+        "Velocidade terminal mais rápida da classe",
+        "Pressão no aro imparável em transição",
+        "Mentalidade clutch"
+      ],
+      "concerns": [
+        "Arremesso de 3 inconsistente (24.6%)",
+        "Porte físico franzino"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #5 (SAC)",
+      "career_arc": "All-Star, All-NBA e primeiro Clutch Player of the Year da NBA liderando os Kings.",
+      "all_star_appearances": 1,
+      "historical_verdict": "All-Star / Franchise PG"
+    }
+  },
+  {
+    "player": "Jonathan Isaac",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 6,
+    "position": "PF/SF",
+    "target_team_and_pick": "Orlando Magic (#6)",
+    "origin": "Florida State",
+    "age_at_draft": 19.7,
+    "biometrics": {
+      "height": "6'10.5\"",
+      "wingspan": "7'1.25\"",
+      "weight": "210 lbs",
+      "vertical_max": "36.0 in",
+      "wingspan_differential": "+2.75 in"
+    },
+    "stats": {
+      "PTS": 12.0,
+      "AST": 1.2,
+      "REB": 7.8,
+      "STL": 1.2,
+      "BLK": 1.5,
+      "TS%": 59.3,
+      "eFG%": 55.5,
+      "USG%": 20.4,
+      "AST_TO": 0.8,
+      "3P%": 34.8,
+      "3PA": 2.8,
+      "FT%": 78.0,
+      "FTA": 3.7,
+      "BPM_est": 9.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Potencial defensivo geracional de troca",
+        "Envergadura e instintos de ajuda",
+        "78% no lance livre"
+      ],
+      "concerns": [
+        "Corpo franzino",
+        "Baixa agressividade ofensiva no 1x1"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #6 (ORL)",
+      "career_arc": "Defensor de calibre All-Defensive quando saudável, mas perdeu temporadas inteiras por lesões de joelho.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Defensor de elite de impacto limitado por lesões"
+    }
+  },
+  {
+    "player": "Lauri Markkanen",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 7,
+    "position": "PF",
+    "target_team_and_pick": "Minnesota Timberwolves (#7, trocado p/ Chicago)",
+    "origin": "Arizona",
+    "age_at_draft": 20.1,
+    "biometrics": {
+      "height": "7'0\"",
+      "wingspan": "6'11.0\"",
+      "weight": "230 lbs",
+      "vertical_max": "32.5 in",
+      "wingspan_differential": "-1.0 in"
+    },
+    "stats": {
+      "PTS": 15.6,
+      "AST": 0.9,
+      "REB": 7.2,
+      "STL": 0.4,
+      "BLK": 0.5,
+      "TS%": 63.5,
+      "eFG%": 59.3,
+      "USG%": 22.3,
+      "AST_TO": 0.82,
+      "3P%": 42.3,
+      "3PA": 4.4,
+      "FT%": 83.5,
+      "FTA": 4.4,
+      "BPM_est": 8.9
+    },
+    "scout_reports": {
+      "strengths": [
+        "Arremessador de 7 pés de elite pura (42.3% 3P, 83.5% FT)",
+        "Mobilidade de perímetro para pick-and-pop"
+      ],
+      "concerns": [
+        "Envergadura negativa (-1.0\")",
+        "Baixa proteção de aro e criação coletiva"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #7 (CHI via MIN)",
+      "career_arc": "All-Star e Most Improved Player no Utah Jazz; espaçador de elite de 7 pés.",
+      "all_star_appearances": 1,
+      "historical_verdict": "All-Star / Cestinha moderno de 7 pés"
+    }
+  },
+  {
+    "player": "Frank Ntilikina",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 8,
+    "position": "PG",
+    "target_team_and_pick": "New York Knicks (#8)",
+    "origin": "SIG Strasbourg (França)",
+    "age_at_draft": 18.9,
+    "biometrics": {
+      "height": "6'5\"",
+      "wingspan": "7'1.0\"",
+      "weight": "190 lbs",
+      "vertical_max": "34.0 in",
+      "wingspan_differential": "+8.0 in"
+    },
+    "stats": {
+      "PTS": 5.2,
+      "AST": 1.4,
+      "REB": 2.1,
+      "STL": 0.8,
+      "BLK": 0.2,
+      "TS%": 53.0,
+      "eFG%": 48.0,
+      "USG%": 16.5,
+      "AST_TO": 1.27,
+      "3P%": 43.1,
+      "3PA": 1.9,
+      "FT%": 62.5,
+      "FTA": 0.9,
+      "BPM_est": 4.2
+    },
+    "scout_reports": {
+      "strengths": [
+        "Envergadura colossal de 7'1\" para armador (+8.0\")",
+        "Defesa individual sufocante na Europa"
+      ],
+      "concerns": [
+        "Agressividade ofensiva quase nula",
+        "Primeiro passo lento",
+        "Volume estatístico minúsculo"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #8 (NYK)",
+      "career_arc": "Especialista defensivo com ataque deficiente; nunca se firmou como titular na NBA.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Bust de loteria / Role player defensivo"
+    }
+  },
+  {
+    "player": "Dennis Smith Jr.",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 9,
+    "position": "PG",
+    "target_team_and_pick": "Dallas Mavericks (#9)",
+    "origin": "NC State",
+    "age_at_draft": 19.6,
+    "biometrics": {
+      "height": "6'2\"",
+      "wingspan": "6'3.0\"",
+      "weight": "195 lbs",
+      "vertical_max": "48.0 in",
+      "wingspan_differential": "+1.0 in"
+    },
+    "stats": {
+      "PTS": 18.1,
+      "AST": 6.2,
+      "REB": 4.6,
+      "STL": 1.9,
+      "BLK": 0.4,
+      "TS%": 56.3,
+      "eFG%": 51.5,
+      "USG%": 27.2,
+      "AST_TO": 1.82,
+      "3P%": 35.9,
+      "3PA": 4.8,
+      "FT%": 71.5,
+      "FTA": 6.0,
+      "BPM_est": 8.4
+    },
+    "scout_reports": {
+      "strengths": [
+        "Impulsão vertical de 48 polegadas",
+        "Agressividade explosiva no aro",
+        "Capacidade de passe em penetração"
+      ],
+      "concerns": [
+        "Histórico de rompimento de LCA no high school",
+        "Seleção de chutes errática",
+        "Esforço defensivo oscilante"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #9 (DAL)",
+      "career_arc": "Calouro promissor, mas trocado para abrir espaço para Luka Dončić; tornou-se armador reserva defensivo.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Role player reserva de rotação"
+    }
+  },
+  {
+    "player": "Zach Collins",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 10,
+    "position": "C/PF",
+    "target_team_and_pick": "Sacramento Kings (#10, trocado p/ Portland)",
+    "origin": "Gonzaga",
+    "age_at_draft": 19.6,
+    "biometrics": {
+      "height": "6'11.5\"",
+      "wingspan": "7'1.0\"",
+      "weight": "230 lbs",
+      "vertical_max": "33.5 in",
+      "wingspan_differential": "+1.5 in"
+    },
+    "stats": {
+      "PTS": 10.0,
+      "AST": 0.4,
+      "REB": 5.9,
+      "STL": 0.5,
+      "BLK": 1.8,
+      "TS%": 70.3,
+      "eFG%": 67.2,
+      "USG%": 23.8,
+      "AST_TO": 0.27,
+      "3P%": 47.6,
+      "3PA": 0.6,
+      "FT%": 74.3,
+      "FTA": 3.8,
+      "BPM_est": 12.0
+    },
+    "scout_reports": {
+      "strengths": [
+        "Eficiência surreal no garrafão (70.3% TS%)",
+        "Instintos de proteção de aro",
+        "Toque de meia distância"
+      ],
+      "concerns": [
+        "Tendência a cometer faltas rápidas",
+        "Apenas 17 minutos/jogo como reserva em Gonzaga"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #10 (POR)",
+      "career_arc": "Pivô reserva sólido, mas perdeu anos devido a múltiplas cirurgias no tornozelo e pé.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Role player de rotação"
+    }
+  },
+  {
+    "player": "Malik Monk",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 11,
+    "position": "SG",
+    "target_team_and_pick": "Charlotte Hornets (#11)",
+    "origin": "Kentucky",
+    "age_at_draft": 19.3,
+    "biometrics": {
+      "height": "6'3\"",
+      "wingspan": "6'3.5\"",
+      "weight": "197 lbs",
+      "vertical_max": "42.0 in",
+      "wingspan_differential": "+0.5 in"
+    },
+    "stats": {
+      "PTS": 19.8,
+      "AST": 2.3,
+      "REB": 2.5,
+      "STL": 0.9,
+      "BLK": 0.5,
+      "TS%": 58.5,
+      "eFG%": 54.4,
+      "USG%": 27.4,
+      "AST_TO": 1.15,
+      "3P%": 39.7,
+      "3PA": 6.9,
+      "FT%": 82.2,
+      "FTA": 4.7,
+      "BPM_est": 7.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Cestinha 'microwave' com explosão de 47 pontos contra UNC",
+        "Gatilho de arremesso ultra-rápido"
+      ],
+      "concerns": [
+        "Tamanho pequeno para SG (6'3\") sem envergadura",
+        "Defesa vulnerável"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #11 (CHA)",
+      "career_arc": "Pontuador de elite do banco no Sacramento Kings, candidato anual a Sixth Man of the Year.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Sexto Homem de elite"
+    }
+  },
+  {
+    "player": "Luke Kennard",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 12,
+    "position": "SG",
+    "target_team_and_pick": "Detroit Pistons (#12)",
+    "origin": "Duke",
+    "age_at_draft": 20.9,
+    "biometrics": {
+      "height": "6'5.5\"",
+      "wingspan": "6'5.25\"",
+      "weight": "202 lbs",
+      "vertical_max": "38.5 in",
+      "wingspan_differential": "-0.25 in"
+    },
+    "stats": {
+      "PTS": 19.5,
+      "AST": 2.5,
+      "REB": 5.1,
+      "STL": 0.8,
+      "BLK": 0.4,
+      "TS%": 63.0,
+      "eFG%": 58.9,
+      "USG%": 24.1,
+      "AST_TO": 1.56,
+      "3P%": 43.8,
+      "3PA": 5.4,
+      "FT%": 85.6,
+      "FTA": 5.1,
+      "BPM_est": 9.4
+    },
+    "scout_reports": {
+      "strengths": [
+        "Arremessador puro de elite (43.8% 3P, 85.6% FT)",
+        "Leitura de jogo em saídas de bloqueio"
+      ],
+      "concerns": [
+        "Envergadura negativa",
+        "Limitações atléticas defensivas"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #12 (DET)",
+      "career_arc": "Um dos arremessadores de 3 pontos mais eficientes da NBA; Detroit passou por Donovan Mitchell.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Especialista de arremesso de alto nível"
+    }
+  },
+  {
+    "player": "Donovan Mitchell",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 13,
+    "position": "SG",
+    "target_team_and_pick": "Denver Nuggets (#13, trocado p/ Utah)",
+    "origin": "Louisville",
+    "age_at_draft": 20.8,
+    "biometrics": {
+      "height": "6'1.25\"",
+      "wingspan": "6'10.0\"",
+      "weight": "211 lbs",
+      "vertical_max": "40.5 in",
+      "wingspan_differential": "+8.75 in"
+    },
+    "stats": {
+      "PTS": 15.6,
+      "AST": 2.7,
+      "REB": 4.9,
+      "STL": 2.1,
+      "BLK": 0.5,
+      "TS%": 53.5,
+      "eFG%": 49.3,
+      "USG%": 27.5,
+      "AST_TO": 1.7,
+      "3P%": 35.4,
+      "3PA": 6.6,
+      "FT%": 80.6,
+      "FTA": 3.7,
+      "BPM_est": 9.6
+    },
+    "scout_reports": {
+      "strengths": [
+        "Envergadura monstruosa de 6'10\" (+8.75\")",
+        "80.6% FT",
+        "Motor defensivo de Pitino",
+        "Explosão de 40.5\""
+      ],
+      "concerns": [
+        "TS% de 53.5% no college",
+        "Tamanho de 6'1\" para ala-armador"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #13 (UTA via DEN)",
+      "career_arc": "Maior steal da classe: 5x All-Star, recordes de 50+ pts em playoffs no Jazz e Cavaliers.",
+      "all_star_appearances": 5,
+      "historical_verdict": "Steal histórico / Perennial All-Star"
+    }
+  },
+  {
+    "player": "Bam Adebayo",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 14,
+    "position": "C",
+    "target_team_and_pick": "Miami Heat (#14)",
+    "origin": "Kentucky",
+    "age_at_draft": 19.9,
+    "biometrics": {
+      "height": "6'9.75\"",
+      "wingspan": "7'2.75\"",
+      "weight": "243 lbs",
+      "vertical_max": "38.5 in",
+      "wingspan_differential": "+5.0 in"
+    },
+    "stats": {
+      "PTS": 13.0,
+      "AST": 0.8,
+      "REB": 8.0,
+      "STL": 0.7,
+      "BLK": 1.5,
+      "TS%": 62.7,
+      "eFG%": 59.9,
+      "USG%": 20.1,
+      "AST_TO": 0.47,
+      "3P%": 0.0,
+      "3PA": 0.0,
+      "FT%": 65.3,
+      "FTA": 5.7,
+      "BPM_est": 7.9
+    },
+    "scout_reports": {
+      "strengths": [
+        "Mobilidade lateral de elite para pivô",
+        "Físico esculpido de 243 lbs",
+        "Versatilidade de troca"
+      ],
+      "concerns": [
+        "Apenas 0.8 assistências em Kentucky",
+        "Sem arremesso de perímetro no college"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #14 (MIA)",
+      "career_arc": "Múltiplo All-Star, All-Defensive First Team e pilar de duas Finais da NBA no Miami Heat.",
+      "all_star_appearances": 3,
+      "historical_verdict": "Superstar defensivo / Pilar de franquia"
+    }
+  },
+  {
+    "player": "Justin Jackson",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 15,
+    "position": "SF",
+    "target_team_and_pick": "Portland (#15, trocado p/ SAC)",
+    "origin": "North Carolina",
+    "age_at_draft": 22.2,
+    "biometrics": {
+      "height": "6'8\"",
+      "wingspan": "6'11.0\"",
+      "weight": "200 lbs",
+      "vertical_max": "34.0 in",
+      "wingspan_differential": "+3.0 in"
+    },
+    "stats": {
+      "PTS": 18.3,
+      "AST": 2.8,
+      "REB": 4.7,
+      "STL": 0.8,
+      "BLK": 0.2,
+      "TS%": 55.4,
+      "eFG%": 52.8,
+      "USG%": 26.5,
+      "AST_TO": 1.65,
+      "3P%": 37.0,
+      "3PA": 7.1,
+      "FT%": 74.8,
+      "FTA": 3.6,
+      "BPM_est": 6.7
+    },
+    "scout_reports": {
+      "strengths": [
+        "Floater refinado",
+        "Experiência de campeão nacional da NCAA"
+      ],
+      "concerns": [
+        "Pouca força física",
+        "Teto atlético limitado"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #15 (SAC)",
+      "career_arc": "Rodou por vários times como ala reserva sem impacto duradouro.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Role player de final de banco"
+    }
+  },
+  {
+    "player": "Justin Patton",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 16,
+    "position": "C",
+    "target_team_and_pick": "Chicago (#16, trocado p/ MIN)",
+    "origin": "Creighton",
+    "age_at_draft": 20.0,
+    "biometrics": {
+      "height": "6'11.25\"",
+      "wingspan": "7'3.0\"",
+      "weight": "230 lbs",
+      "vertical_max": "34.0 in",
+      "wingspan_differential": "+3.75 in"
+    },
+    "stats": {
+      "PTS": 12.9,
+      "AST": 1.2,
+      "REB": 6.2,
+      "STL": 0.9,
+      "BLK": 1.4,
+      "TS%": 69.4,
+      "eFG%": 67.8,
+      "USG%": 20.8,
+      "AST_TO": 0.75,
+      "3P%": 53.3,
+      "3PA": 0.4,
+      "FT%": 51.7,
+      "FTA": 3.2,
+      "BPM_est": 9.3
+    },
+    "scout_reports": {
+      "strengths": [
+        "Eficiência no aro",
+        "Mobilidade fluida"
+      ],
+      "concerns": [
+        "Histórico médico frágil no pé",
+        "FT de 51.7%"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #16 (MIN)",
+      "career_arc": "Múltiplas fraturas no quinto metatarso arruinaram sua carreira na NBA.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Bust por lesões"
+    }
+  },
+  {
+    "player": "D.J. Wilson",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 17,
+    "position": "PF",
+    "target_team_and_pick": "Milwaukee Bucks (#17)",
+    "origin": "Michigan",
+    "age_at_draft": 21.3,
+    "biometrics": {
+      "height": "6'10\"",
+      "wingspan": "7'3.0\"",
+      "weight": "235 lbs",
+      "vertical_max": "35.0 in",
+      "wingspan_differential": "+5.0 in"
+    },
+    "stats": {
+      "PTS": 11.0,
+      "AST": 1.3,
+      "REB": 5.3,
+      "STL": 0.5,
+      "BLK": 1.5,
+      "TS%": 60.1,
+      "eFG%": 57.7,
+      "USG%": 18.2,
+      "AST_TO": 1.18,
+      "3P%": 37.3,
+      "3PA": 2.9,
+      "FT%": 83.3,
+      "FTA": 1.9,
+      "BPM_est": 7.2
+    },
+    "scout_reports": {
+      "strengths": [
+        "Envergadura de 7'3\"",
+        "Arremesso e tocos"
+      ],
+      "concerns": [
+        "Reboteador fraco para tamanho",
+        "Idade avançada"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #17 (MIL)",
+      "career_arc": "Nunca conquistou minutos consistentes na rotação dos Bucks.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Bust de rotação"
+    }
+  },
+  {
+    "player": "T.J. Leaf",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 18,
+    "position": "PF",
+    "target_team_and_pick": "Indiana Pacers (#18)",
+    "origin": "UCLA",
+    "age_at_draft": 20.1,
+    "biometrics": {
+      "height": "6'10\"",
+      "wingspan": "6'11.0\"",
+      "weight": "222 lbs",
+      "vertical_max": "34.0 in",
+      "wingspan_differential": "+1.0 in"
+    },
+    "stats": {
+      "PTS": 16.3,
+      "AST": 2.4,
+      "REB": 8.2,
+      "STL": 0.6,
+      "BLK": 1.1,
+      "TS%": 65.3,
+      "eFG%": 64.4,
+      "USG%": 21.4,
+      "AST_TO": 1.85,
+      "3P%": 46.6,
+      "3PA": 1.7,
+      "FT%": 67.9,
+      "FTA": 3.1,
+      "BPM_est": 9.5
+    },
+    "scout_reports": {
+      "strengths": [
+        "Beneficiário do passe de Lonzo",
+        "Toque no garrafão"
+      ],
+      "concerns": [
+        "Defesa de perímetro inexistente",
+        "Falta de dureza física"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #18 (IND)",
+      "career_arc": "Incapaz de defender alas da NBA; saiu da liga precocemente.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Bust defensivo"
+    }
+  },
+  {
+    "player": "John Collins",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 19,
+    "position": "PF",
+    "target_team_and_pick": "Atlanta Hawks (#19)",
+    "origin": "Wake Forest",
+    "age_at_draft": 19.7,
+    "biometrics": {
+      "height": "6'9.5\"",
+      "wingspan": "6'11.25\"",
+      "weight": "225 lbs",
+      "vertical_max": "37.5 in",
+      "wingspan_differential": "+1.75 in"
+    },
+    "stats": {
+      "PTS": 19.2,
+      "AST": 0.5,
+      "REB": 9.8,
+      "STL": 0.6,
+      "BLK": 1.6,
+      "TS%": 63.9,
+      "eFG%": 62.4,
+      "USG%": 30.2,
+      "AST_TO": 0.28,
+      "3P%": 0.0,
+      "3PA": 0.0,
+      "FT%": 74.5,
+      "FTA": 6.7,
+      "BPM_est": 12.1
+    },
+    "scout_reports": {
+      "strengths": [
+        "Finalizador de lob dominante",
+        "BPM de 12.1 na ACC",
+        "Rebote ofensivo voraz"
+      ],
+      "concerns": [
+        "Sem passe (0.5 AST)",
+        "Posicionamento defensivo"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #19 (ATL)",
+      "career_arc": "Titular explosivo de 20/10 no Atlanta Hawks e Utah Jazz.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Titular de alto impacto ofensivo"
+    }
+  },
+  {
+    "player": "Harry Giles",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 20,
+    "position": "PF/C",
+    "target_team_and_pick": "Portland (#20, trocado p/ SAC)",
+    "origin": "Duke",
+    "age_at_draft": 19.1,
+    "biometrics": {
+      "height": "6'10\"",
+      "wingspan": "7'3.0\"",
+      "weight": "240 lbs",
+      "vertical_max": "32.0 in",
+      "wingspan_differential": "+5.0 in"
+    },
+    "stats": {
+      "PTS": 3.9,
+      "AST": 0.3,
+      "REB": 3.8,
+      "STL": 0.3,
+      "BLK": 0.7,
+      "TS%": 57.8,
+      "eFG%": 57.7,
+      "USG%": 21.0,
+      "AST_TO": 0.43,
+      "3P%": 0.0,
+      "3PA": 0.0,
+      "FT%": 50.0,
+      "FTA": 1.3,
+      "BPM_est": 2.1
+    },
+    "scout_reports": {
+      "strengths": [
+        "Talento natural top 1 do high school",
+        "Visão de passe para pivô"
+      ],
+      "concerns": [
+        "Duas cirurgias graves de LCA nos dois joelhos"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #20 (SAC)",
+      "career_arc": "Problemas recorrentes no joelho limitaram sua mobilidade na NBA.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Bust por histórico médico trágico"
+    }
+  },
+  {
+    "player": "Terrance Ferguson",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 21,
+    "position": "SG",
+    "target_team_and_pick": "Oklahoma City Thunder (#21)",
+    "origin": "Adelaide 36ers (Austrália)",
+    "age_at_draft": 19.1,
+    "biometrics": {
+      "height": "6'7\"",
+      "wingspan": "6'8.75\"",
+      "weight": "184 lbs",
+      "vertical_max": "38.0 in",
+      "wingspan_differential": "+1.75 in"
+    },
+    "stats": {
+      "PTS": 4.6,
+      "AST": 0.6,
+      "REB": 1.2,
+      "STL": 0.2,
+      "BLK": 0.3,
+      "TS%": 49.0,
+      "eFG%": 48.0,
+      "USG%": 15.1,
+      "AST_TO": 0.75,
+      "3P%": 31.3,
+      "3PA": 2.6,
+      "FT%": 60.0,
+      "FTA": 0.7,
+      "BPM_est": 1.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Atletismo vertical de transição",
+        "Potencial de 3&D"
+      ],
+      "concerns": [
+        "Produção modesta na NBL",
+        "Drible fraco"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #21 (OKC)",
+      "career_arc": "Titular pontual em OKC, mas inconsistência ofensiva o tirou da liga.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Role player de vida curta"
+    }
+  },
+  {
+    "player": "Jarrett Allen",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 22,
+    "position": "C",
+    "target_team_and_pick": "Brooklyn Nets (#22)",
+    "origin": "Texas",
+    "age_at_draft": 19.1,
+    "biometrics": {
+      "height": "6'10.25\"",
+      "wingspan": "7'5.25\"",
+      "weight": "234 lbs",
+      "vertical_max": "35.5 in",
+      "wingspan_differential": "+7.0 in"
+    },
+    "stats": {
+      "PTS": 13.4,
+      "AST": 0.8,
+      "REB": 8.4,
+      "STL": 0.6,
+      "BLK": 1.5,
+      "TS%": 58.7,
+      "eFG%": 56.6,
+      "USG%": 23.4,
+      "AST_TO": 0.36,
+      "3P%": 0.0,
+      "3PA": 0.0,
+      "FT%": 56.4,
+      "FTA": 3.8,
+      "BPM_est": 6.3
+    },
+    "scout_reports": {
+      "strengths": [
+        "Envergadura gigantesca de 7'5.25\" (+7.0\")",
+        "Protetor de aro e finalizador de lob natural"
+      ],
+      "concerns": [
+        "Corpo magro no college",
+        "FT de 56.4%"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #22 (BKN)",
+      "career_arc": "All-Star em Cleveland e um dos âncoras defensivos mais respeitados da NBA.",
+      "all_star_appearances": 1,
+      "historical_verdict": "All-Star / Steal da primeira rodada"
+    }
+  },
+  {
+    "player": "OG Anunoby",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 23,
+    "position": "SF/PF",
+    "target_team_and_pick": "Toronto Raptors (#23)",
+    "origin": "Indiana",
+    "age_at_draft": 19.9,
+    "biometrics": {
+      "height": "6'7.75\"",
+      "wingspan": "7'2.25\"",
+      "weight": "232 lbs",
+      "vertical_max": "37.5 in",
+      "wingspan_differential": "+6.5 in"
+    },
+    "stats": {
+      "PTS": 11.1,
+      "AST": 1.4,
+      "REB": 5.4,
+      "STL": 1.3,
+      "BLK": 1.3,
+      "TS%": 60.5,
+      "eFG%": 59.4,
+      "USG%": 20.3,
+      "AST_TO": 0.88,
+      "3P%": 31.1,
+      "3PA": 2.8,
+      "FT%": 56.3,
+      "FTA": 2.3,
+      "BPM_est": 9.4
+    },
+    "scout_reports": {
+      "strengths": [
+        "Envergadura de 7'2.25\" com 232 lbs",
+        "Defensor de 1 a 5 posições",
+        "Campeão de desvios"
+      ],
+      "concerns": [
+        "Lesão no joelho que encerrou temporada colegial"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #23 (TOR)",
+      "career_arc": "Campeão da NBA em 2019, All-Defensive 1st Team e contrato de $212M no Knicks.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Grande Steal / Defensor All-Defensive de elite"
+    }
+  },
+  {
+    "player": "Tyler Lydon",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 24,
+    "position": "PF",
+    "target_team_and_pick": "Utah (#24, trocado p/ DEN)",
+    "origin": "Syracuse",
+    "age_at_draft": 21.2,
+    "biometrics": {
+      "height": "6'9.5\"",
+      "wingspan": "7'0.0\"",
+      "weight": "223 lbs",
+      "vertical_max": "33.5 in",
+      "wingspan_differential": "+2.5 in"
+    },
+    "stats": {
+      "PTS": 13.2,
+      "AST": 2.1,
+      "REB": 8.6,
+      "STL": 1.0,
+      "BLK": 1.4,
+      "TS%": 59.2,
+      "eFG%": 54.9,
+      "USG%": 19.8,
+      "AST_TO": 1.05,
+      "3P%": 39.2,
+      "3PA": 3.2,
+      "FT%": 83.6,
+      "FTA": 3.6,
+      "BPM_est": 7.3
+    },
+    "scout_reports": {
+      "strengths": [
+        "Arremesso de 3 e lance livre (83.6%)",
+        "Reboteador na zona de Syracuse"
+      ],
+      "concerns": [
+        "Falta de agilidade lateral no 1x1"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #24 (DEN)",
+      "career_arc": "Jogou apenas 26 minutos no total na carreira da NBA.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Bust da primeira rodada"
+    }
+  },
+  {
+    "player": "Anžejs Pasečņiks",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 25,
+    "position": "C",
+    "target_team_and_pick": "Orlando (#25, trocado p/ PHI)",
+    "origin": "Gran Canaria (Espanha)",
+    "age_at_draft": 21.5,
+    "biometrics": {
+      "height": "7'2\"",
+      "wingspan": "7'3.0\"",
+      "weight": "229 lbs",
+      "vertical_max": "30.0 in",
+      "wingspan_differential": "+1.0 in"
+    },
+    "stats": {
+      "PTS": 7.2,
+      "AST": 0.3,
+      "REB": 3.0,
+      "STL": 0.3,
+      "BLK": 0.7,
+      "TS%": 66.0,
+      "eFG%": 65.7,
+      "USG%": 18.0,
+      "AST_TO": 0.3,
+      "3P%": 0.0,
+      "3PA": 0.0,
+      "FT%": 60.0,
+      "FTA": 2.0,
+      "BPM_est": 3.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Altura de 7'2\" e mobilidade na ACB"
+      ],
+      "concerns": [
+        "Franzino e dominado no rebote"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #25 (PHI)",
+      "career_arc": "Nunca se adaptou ao jogo físico da NBA.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Bust de Draft-and-Stash"
+    }
+  },
+  {
+    "player": "Caleb Swanigan",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 26,
+    "position": "PF/C",
+    "target_team_and_pick": "Portland Trail Blazers (#26)",
+    "origin": "Purdue",
+    "age_at_draft": 20.1,
+    "biometrics": {
+      "height": "6'8.5\"",
+      "wingspan": "7'3.0\"",
+      "weight": "249 lbs",
+      "vertical_max": "29.0 in",
+      "wingspan_differential": "+6.5 in"
+    },
+    "stats": {
+      "PTS": 18.5,
+      "AST": 3.0,
+      "REB": 12.5,
+      "STL": 0.4,
+      "BLK": 0.8,
+      "TS%": 62.4,
+      "eFG%": 56.4,
+      "USG%": 28.5,
+      "AST_TO": 0.88,
+      "3P%": 44.7,
+      "3PA": 2.4,
+      "FT%": 78.1,
+      "FTA": 6.9,
+      "BPM_est": 11.5
+    },
+    "scout_reports": {
+      "strengths": [
+        "Duplo-duplo ambulante (18.5 PTS / 12.5 REB)",
+        "Envergadura de 7'3\""
+      ],
+      "concerns": [
+        "Condicionamento e lentidão lateral"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #26 (POR)",
+      "career_arc": "Dificuldade em acompanhar o ritmo veloz da NBA moderna.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Role player de baixa minutagem"
+    }
+  },
+  {
+    "player": "Kyle Kuzma",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 27,
+    "position": "PF/SF",
+    "target_team_and_pick": "Brooklyn (#27, trocado p/ LAL)",
+    "origin": "Utah",
+    "age_at_draft": 21.9,
+    "biometrics": {
+      "height": "6'9.5\"",
+      "wingspan": "7'0.25\"",
+      "weight": "223 lbs",
+      "vertical_max": "34.0 in",
+      "wingspan_differential": "+2.75 in"
+    },
+    "stats": {
+      "PTS": 16.4,
+      "AST": 2.4,
+      "REB": 9.3,
+      "STL": 0.6,
+      "BLK": 0.5,
+      "TS%": 55.4,
+      "eFG%": 53.6,
+      "USG%": 25.8,
+      "AST_TO": 0.96,
+      "3P%": 32.1,
+      "3PA": 3.3,
+      "FT%": 66.9,
+      "FTA": 4.4,
+      "BPM_est": 6.9
+    },
+    "scout_reports": {
+      "strengths": [
+        "Versatilidade de pontuação",
+        "Confiança ofensiva",
+        "Tamanho moderno"
+      ],
+      "concerns": [
+        "Idade avançada",
+        "Defesa inconsistente"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #27 (LAL)",
+      "career_arc": "Campeão da NBA em 2020 com os Lakers e pontuador de 20 PPG nos Wizards.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Grande Steal / Titular de alto volume"
+    }
+  },
+  {
+    "player": "Tony Bradley",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 28,
+    "position": "C",
+    "target_team_and_pick": "LAL (#28, trocado p/ UTA)",
+    "origin": "North Carolina",
+    "age_at_draft": 19.4,
+    "biometrics": {
+      "height": "6'10.75\"",
+      "wingspan": "7'5.0\"",
+      "weight": "248 lbs",
+      "vertical_max": "31.5 in",
+      "wingspan_differential": "+6.25 in"
+    },
+    "stats": {
+      "PTS": 7.1,
+      "AST": 0.6,
+      "REB": 5.1,
+      "STL": 0.3,
+      "BLK": 0.6,
+      "TS%": 58.7,
+      "eFG%": 57.3,
+      "USG%": 21.0,
+      "AST_TO": 0.75,
+      "3P%": 0.0,
+      "3PA": 0.0,
+      "FT%": 61.9,
+      "FTA": 2.2,
+      "BPM_est": 7.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Envergadura de 7'5\"",
+        "Reboteador ofensivo de apoio"
+      ],
+      "concerns": [
+        "Mobilidade vertical limitada",
+        "Minutagem baixa no college"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #28 (UTA)",
+      "career_arc": "Pivô reserva de final de rotação na NBA.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Reserva de rotação"
+    }
+  },
+  {
+    "player": "Derrick White",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 29,
+    "position": "PG/SG",
+    "target_team_and_pick": "San Antonio Spurs (#29)",
+    "origin": "Colorado",
+    "age_at_draft": 22.9,
+    "biometrics": {
+      "height": "6'4.5\"",
+      "wingspan": "6'7.5\"",
+      "weight": "200 lbs",
+      "vertical_max": "36.5 in",
+      "wingspan_differential": "+3.0 in"
+    },
+    "stats": {
+      "PTS": 18.1,
+      "AST": 4.4,
+      "REB": 4.1,
+      "STL": 1.2,
+      "BLK": 1.4,
+      "TS%": 61.3,
+      "eFG%": 57.4,
+      "USG%": 26.2,
+      "AST_TO": 1.83,
+      "3P%": 39.6,
+      "3PA": 4.3,
+      "FT%": 81.3,
+      "FTA": 5.7,
+      "BPM_est": 10.1
+    },
+    "scout_reports": {
+      "strengths": [
+        "QI basquetebolístico de gênio",
+        "81.3% FT e 39.6% 3P",
+        "Defensor de impacto com 1.4 BLK para armador"
+      ],
+      "concerns": [
+        "Origem na Divisão II antes de Colorado",
+        "Quase 23 anos no draft"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #29 (SAS)",
+      "career_arc": "Campeão da NBA em 2024 pelos Celtics, All-Defensive Team e pilar dos EUA nas Olimpíadas.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Steal histórico absoluto / Campeão NBA"
+    }
+  },
+  {
+    "player": "Josh Hart",
+    "class_year": 2017,
+    "round": 1,
+    "pick": 30,
+    "position": "SG",
+    "target_team_and_pick": "Utah (#30, trocado p/ LAL)",
+    "origin": "Villanova",
+    "age_at_draft": 22.3,
+    "biometrics": {
+      "height": "6'5\"",
+      "wingspan": "6'8.25\"",
+      "weight": "209 lbs",
+      "vertical_max": "38.0 in",
+      "wingspan_differential": "+3.25 in"
+    },
+    "stats": {
+      "PTS": 18.7,
+      "AST": 2.9,
+      "REB": 6.4,
+      "STL": 1.6,
+      "BLK": 0.3,
+      "TS%": 60.4,
+      "eFG%": 57.9,
+      "USG%": 26.1,
+      "AST_TO": 1.38,
+      "3P%": 40.4,
+      "3PA": 5.1,
+      "FT%": 74.7,
+      "FTA": 4.9,
+      "BPM_est": 9.7
+    },
+    "scout_reports": {
+      "strengths": [
+        "Competitividade inabalável",
+        "Reboteador lendário para a posição",
+        "Campeão da NCAA"
+      ],
+      "concerns": [
+        "Teto atlético de criação individual considerado médio"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #30 (LAL)",
+      "career_arc": "Motor implacável de 48 minutos nos Knicks, líder de triplos-duplos e coração da equipe.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Steal de primeira rodada / Titular de elite"
+    }
+  },
+  {
+    "player": "Frank Jackson",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 31,
+    "position": "PG",
+    "target_team_and_pick": "CHA (#31, p/ NOP)",
+    "origin": "Duke",
+    "age_at_draft": 19.1,
+    "biometrics": {
+      "height": "6'3.5\"",
+      "wingspan": "6'7.5\"",
+      "weight": "205 lbs",
+      "vertical_max": "42.0 in",
+      "wingspan_differential": "+4.0 in"
+    },
+    "stats": {
+      "PTS": 10.9,
+      "AST": 1.7,
+      "REB": 2.5,
+      "STL": 0.6,
+      "BLK": 0.1,
+      "TS%": 58.7,
+      "eFG%": 54.4,
+      "USG%": 21.0,
+      "AST_TO": 1.21,
+      "3P%": 39.5,
+      "3PA": 3.6,
+      "FT%": 75.5,
+      "FTA": 2.8,
+      "BPM_est": 4.5
+    },
+    "scout_reports": {
+      "strengths": [
+        "Impulsão de 42 polegadas",
+        "Arremesso spot-up"
+      ],
+      "concerns": [
+        "Visão de armador limitada"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #31 (NOP)",
+      "career_arc": "Armador reserva com passagens por Detroit e Utah.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Role player de 2ª rodada"
+    }
+  },
+  {
+    "player": "Davon Reed",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 32,
+    "position": "SG",
+    "target_team_and_pick": "Phoenix Suns (#32)",
+    "origin": "Miami",
+    "age_at_draft": 22.0,
+    "biometrics": {
+      "height": "6'5.5\"",
+      "wingspan": "7'0.0\"",
+      "weight": "208 lbs",
+      "vertical_max": "36.0 in",
+      "wingspan_differential": "+6.5 in"
+    },
+    "stats": {
+      "PTS": 14.9,
+      "AST": 2.4,
+      "REB": 4.8,
+      "STL": 1.3,
+      "BLK": 0.5,
+      "TS%": 57.2,
+      "eFG%": 52.8,
+      "USG%": 24.1,
+      "AST_TO": 1.26,
+      "3P%": 39.7,
+      "3PA": 6.0,
+      "FT%": 83.3,
+      "FTA": 4.3,
+      "BPM_est": 6.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Envergadura de 7'0\" com bom arremesso"
+      ],
+      "concerns": [
+        "Lesão no menisco após draft"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #32 (PHX)",
+      "career_arc": "Reserva de rotação breve na liga.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Reserva de 2ª rodada"
+    }
+  },
+  {
+    "player": "Wesley Iwundu",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 33,
+    "position": "SF",
+    "target_team_and_pick": "Orlando Magic (#33)",
+    "origin": "Kansas State",
+    "age_at_draft": 22.5,
+    "biometrics": {
+      "height": "6'6.75\"",
+      "wingspan": "7'1.0\"",
+      "weight": "193 lbs",
+      "vertical_max": "36.0 in",
+      "wingspan_differential": "+6.25 in"
+    },
+    "stats": {
+      "PTS": 13.0,
+      "AST": 3.5,
+      "REB": 6.0,
+      "STL": 1.0,
+      "BLK": 0.3,
+      "TS%": 56.5,
+      "eFG%": 52.3,
+      "USG%": 23.0,
+      "AST_TO": 1.35,
+      "3P%": 37.6,
+      "3PA": 2.3,
+      "FT%": 76.7,
+      "FTA": 4.6,
+      "BPM_est": 6.2
+    },
+    "scout_reports": {
+      "strengths": [
+        "Envergadura de 7'1\"",
+        "Defesa posicional"
+      ],
+      "concerns": [
+        "Arremesso inconsistente"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #33 (ORL)",
+      "career_arc": "Especialista defensivo de rotação em Orlando.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Defensor de apoio"
+    }
+  },
+  {
+    "player": "Frank Mason III",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 34,
+    "position": "PG",
+    "target_team_and_pick": "Sacramento Kings (#34)",
+    "origin": "Kansas",
+    "age_at_draft": 23.2,
+    "biometrics": {
+      "height": "5'11\"",
+      "wingspan": "6'3.25\"",
+      "weight": "190 lbs",
+      "vertical_max": "41.0 in",
+      "wingspan_differential": "+4.25 in"
+    },
+    "stats": {
+      "PTS": 20.9,
+      "AST": 5.2,
+      "REB": 4.2,
+      "STL": 1.3,
+      "BLK": 0.1,
+      "TS%": 63.3,
+      "eFG%": 58.8,
+      "USG%": 26.5,
+      "AST_TO": 2.17,
+      "3P%": 47.1,
+      "3PA": 4.8,
+      "FT%": 79.5,
+      "FTA": 6.6,
+      "BPM_est": 11.2
+    },
+    "scout_reports": {
+      "strengths": [
+        "Jogador Nacional do Ano na NCAA",
+        "Liderança feroz"
+      ],
+      "concerns": [
+        "Baixa estatura (5'11\")"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #34 (SAC)",
+      "career_arc": "MVP da G-League e armador reserva combativo nos Kings e Bucks.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Reserva competente de 2ª rodada"
+    }
+  },
+  {
+    "player": "Ivan Rabb",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 35,
+    "position": "PF",
+    "target_team_and_pick": "ORL (#35, p/ MEM)",
+    "origin": "California",
+    "age_at_draft": 20.3,
+    "biometrics": {
+      "height": "6'10\"",
+      "wingspan": "7'1.5\"",
+      "weight": "220 lbs",
+      "vertical_max": "32.5 in",
+      "wingspan_differential": "+3.5 in"
+    },
+    "stats": {
+      "PTS": 14.0,
+      "AST": 1.5,
+      "REB": 10.5,
+      "STL": 0.7,
+      "BLK": 1.0,
+      "TS%": 55.4,
+      "eFG%": 49.7,
+      "USG%": 24.5,
+      "AST_TO": 0.75,
+      "3P%": 40.0,
+      "3PA": 0.3,
+      "FT%": 66.3,
+      "FTA": 6.1,
+      "BPM_est": 5.9
+    },
+    "scout_reports": {
+      "strengths": [
+        "Reboteador de duplo-duplo"
+      ],
+      "concerns": [
+        "Perdeu valor por ficar 2 anos no college"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #35 (MEM)",
+      "career_arc": "Passagem breve por Memphis.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Reserva breve"
+    }
+  },
+  {
+    "player": "Jonah Bolden",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 36,
+    "position": "PF",
+    "target_team_and_pick": "Philadelphia 76ers (#36)",
+    "origin": "FMP Belgrade (Sérvia)",
+    "age_at_draft": 21.4,
+    "biometrics": {
+      "height": "6'10\"",
+      "wingspan": "7'3.0\"",
+      "weight": "220 lbs",
+      "vertical_max": "38.0 in",
+      "wingspan_differential": "+5.0 in"
+    },
+    "stats": {
+      "PTS": 12.9,
+      "AST": 1.8,
+      "REB": 7.2,
+      "STL": 1.0,
+      "BLK": 1.0,
+      "TS%": 58.0,
+      "eFG%": 54.0,
+      "USG%": 20.0,
+      "AST_TO": 1.0,
+      "3P%": 41.9,
+      "3PA": 3.8,
+      "FT%": 62.0,
+      "FTA": 3.0,
+      "BPM_est": 6.0
+    },
+    "scout_reports": {
+      "strengths": [
+        "Stretch big atlético na Europa"
+      ],
+      "concerns": [
+        "Falta de consistência tática"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #36 (PHI)",
+      "career_arc": "Reserva pontual no processo dos 76ers.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Role player de curta passagem"
+    }
+  },
+  {
+    "player": "Semi Ojeleye",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 37,
+    "position": "SF/PF",
+    "target_team_and_pick": "Boston Celtics (#37)",
+    "origin": "SMU",
+    "age_at_draft": 22.6,
+    "biometrics": {
+      "height": "6'6.75\"",
+      "wingspan": "6'9.75\"",
+      "weight": "241 lbs",
+      "vertical_max": "40.5 in",
+      "wingspan_differential": "+3.0 in"
+    },
+    "stats": {
+      "PTS": 18.9,
+      "AST": 1.5,
+      "REB": 6.9,
+      "STL": 0.4,
+      "BLK": 0.4,
+      "TS%": 61.1,
+      "eFG%": 56.4,
+      "USG%": 26.8,
+      "AST_TO": 1.0,
+      "3P%": 42.4,
+      "3PA": 4.9,
+      "FT%": 78.5,
+      "FTA": 6.6,
+      "BPM_est": 9.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Físico hercúleo de 241 lbs",
+        "Marcador individual de Giannis",
+        "42.4% 3P"
+      ],
+      "concerns": [
+        "Drible nulo"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #37 (BOS)",
+      "career_arc": "Especialista físico nos playoffs pelos Celtics e Bucks.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Role player defensivo útil"
+    }
+  },
+  {
+    "player": "Jordan Bell",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 38,
+    "position": "PF/C",
+    "target_team_and_pick": "CHI (#38, p/ GSW)",
+    "origin": "Oregon",
+    "age_at_draft": 22.4,
+    "biometrics": {
+      "height": "6'8.5\"",
+      "wingspan": "6'11.75\"",
+      "weight": "224 lbs",
+      "vertical_max": "36.5 in",
+      "wingspan_differential": "+3.25 in"
+    },
+    "stats": {
+      "PTS": 10.9,
+      "AST": 1.8,
+      "REB": 8.8,
+      "STL": 1.3,
+      "BLK": 2.2,
+      "TS%": 64.3,
+      "eFG%": 63.6,
+      "USG%": 17.5,
+      "AST_TO": 1.0,
+      "3P%": 21.4,
+      "3PA": 0.4,
+      "FT%": 70.1,
+      "FTA": 2.9,
+      "BPM_est": 11.2
+    },
+    "scout_reports": {
+      "strengths": [
+        "Defensor de Final Four",
+        "Energia e 2.2 tocos/jogo"
+      ],
+      "concerns": [
+        "Sem arremesso fora do aro"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #38 (GSW)",
+      "career_arc": "Campeão da NBA em 2018 com o Golden State Warriors como calouro.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Steal de encaixe imediato / Campeão NBA"
+    }
+  },
+  {
+    "player": "Jawun Evans",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 39,
+    "position": "PG",
+    "target_team_and_pick": "PHI (#39, p/ LAC)",
+    "origin": "Oklahoma State",
+    "age_at_draft": 20.9,
+    "biometrics": {
+      "height": "5'11.5\"",
+      "wingspan": "6'5.5\"",
+      "weight": "185 lbs",
+      "vertical_max": "37.0 in",
+      "wingspan_differential": "+6.0 in"
+    },
+    "stats": {
+      "PTS": 19.2,
+      "AST": 6.4,
+      "REB": 3.4,
+      "STL": 1.8,
+      "BLK": 0.1,
+      "TS%": 54.7,
+      "eFG%": 47.9,
+      "USG%": 32.5,
+      "AST_TO": 2.29,
+      "3P%": 37.9,
+      "3PA": 3.2,
+      "FT%": 79.5,
+      "FTA": 6.5,
+      "BPM_est": 8.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Drible baixo e envergadura de 6'5.5\""
+      ],
+      "concerns": [
+        "Baixa estatura"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #39 (LAC)",
+      "career_arc": "Breve passagem pelos Clippers.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Reserva de 2ª rodada"
+    }
+  },
+  {
+    "player": "Dwayne Bacon",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 40,
+    "position": "SG",
+    "target_team_and_pick": "NOP (#40, p/ CHA)",
+    "origin": "Florida State",
+    "age_at_draft": 21.8,
+    "biometrics": {
+      "height": "6'6\"",
+      "wingspan": "6'10.0\"",
+      "weight": "221 lbs",
+      "vertical_max": "36.5 in",
+      "wingspan_differential": "+4.0 in"
+    },
+    "stats": {
+      "PTS": 17.2,
+      "AST": 1.7,
+      "REB": 4.2,
+      "STL": 1.0,
+      "BLK": 0.1,
+      "TS%": 54.3,
+      "eFG%": 50.8,
+      "USG%": 28.5,
+      "AST_TO": 0.85,
+      "3P%": 33.3,
+      "3PA": 4.4,
+      "FT%": 75.4,
+      "FTA": 4.4,
+      "BPM_est": 5.5
+    },
+    "scout_reports": {
+      "strengths": [
+        "Criador de arremesso individual"
+      ],
+      "concerns": [
+        "Eficiência moderada e visão em túnel"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #40 (CHA)",
+      "career_arc": "Cestinha pontual em Charlotte e Orlando; migrou para a Europa.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Pontuador de apoio"
+    }
+  },
+  {
+    "player": "Tyler Dorsey",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 41,
+    "position": "SG",
+    "target_team_and_pick": "Atlanta Hawks (#41)",
+    "origin": "Oregon",
+    "age_at_draft": 21.3,
+    "biometrics": {
+      "height": "6'4.5\"",
+      "wingspan": "6'5.25\"",
+      "weight": "183 lbs",
+      "vertical_max": "36.0 in",
+      "wingspan_differential": "+0.75 in"
+    },
+    "stats": {
+      "PTS": 14.6,
+      "AST": 1.7,
+      "REB": 3.5,
+      "STL": 0.8,
+      "BLK": 0.1,
+      "TS%": 60.9,
+      "eFG%": 57.0,
+      "USG%": 22.0,
+      "AST_TO": 1.13,
+      "3P%": 42.3,
+      "3PA": 5.3,
+      "FT%": 75.5,
+      "FTA": 3.6,
+      "BPM_est": 6.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Clutch shooter no March Madness"
+      ],
+      "concerns": [
+        "Falta de tamanho defensivo"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #41 (ATL)",
+      "career_arc": "Carreira de sucesso posterior na EuroLeague.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Reserva de 2ª rodada"
+    }
+  },
+  {
+    "player": "Thomas Bryant",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 42,
+    "position": "C",
+    "target_team_and_pick": "UTA (#42, p/ LAL)",
+    "origin": "Indiana",
+    "age_at_draft": 19.9,
+    "biometrics": {
+      "height": "6'10.75\"",
+      "wingspan": "7'6.0\"",
+      "weight": "248 lbs",
+      "vertical_max": "33.0 in",
+      "wingspan_differential": "+7.25 in"
+    },
+    "stats": {
+      "PTS": 12.6,
+      "AST": 1.5,
+      "REB": 6.6,
+      "STL": 0.8,
+      "BLK": 1.5,
+      "TS%": 59.4,
+      "eFG%": 55.4,
+      "USG%": 22.0,
+      "AST_TO": 0.94,
+      "3P%": 38.3,
+      "3PA": 1.3,
+      "FT%": 73.0,
+      "FTA": 4.6,
+      "BPM_est": 7.5
+    },
+    "scout_reports": {
+      "strengths": [
+        "Envergadura gigantesca de 7'6\" (+7.25\")",
+        "Toque de 3 pontos para pivô"
+      ],
+      "concerns": [
+        "Lentidão lateral"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #42 (LAL)",
+      "career_arc": "Campeão da NBA em 2023 com o Denver Nuggets; titular produtivo nos Wizards.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Steal de 2ª rodada / Campeão NBA"
+    }
+  },
+  {
+    "player": "Isaiah Hartenstein",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 43,
+    "position": "C",
+    "target_team_and_pick": "Houston Rockets (#43)",
+    "origin": "Žalgiris Kaunas (Lituânia)",
+    "age_at_draft": 19.1,
+    "biometrics": {
+      "height": "7'0\"",
+      "wingspan": "7'2.25\"",
+      "weight": "250 lbs",
+      "vertical_max": "34.0 in",
+      "wingspan_differential": "+2.25 in"
+    },
+    "stats": {
+      "PTS": 4.7,
+      "AST": 0.7,
+      "REB": 3.4,
+      "STL": 0.5,
+      "BLK": 0.5,
+      "TS%": 54.0,
+      "eFG%": 51.0,
+      "USG%": 18.0,
+      "AST_TO": 0.8,
+      "3P%": 28.0,
+      "3PA": 0.5,
+      "FT%": 68.0,
+      "FTA": 2.0,
+      "BPM_est": 5.0
+    },
+    "scout_reports": {
+      "strengths": [
+        "QI de passe como pivô central",
+        "Rebote ofensivo e presença física"
+      ],
+      "concerns": [
+        "Falta de arremesso externo confiável na época"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #43 (HOU)",
+      "career_arc": "Evoluiu para pivô titular de elite nos Knicks e assinou contrato de $87M no OKC Thunder.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Grande Steal de 2ª rodada / Titular de ponta"
+    }
+  },
+  {
+    "player": "Damyean Dotson",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 44,
+    "position": "SG",
+    "target_team_and_pick": "New York Knicks (#44)",
+    "origin": "Houston",
+    "age_at_draft": 23.1,
+    "biometrics": {
+      "height": "6'5.5\"",
+      "wingspan": "6'9.0\"",
+      "weight": "205 lbs",
+      "vertical_max": "38.0 in",
+      "wingspan_differential": "+3.5 in"
+    },
+    "stats": {
+      "PTS": 17.4,
+      "AST": 1.1,
+      "REB": 6.9,
+      "STL": 0.9,
+      "BLK": 0.2,
+      "TS%": 59.2,
+      "eFG%": 56.6,
+      "USG%": 24.5,
+      "AST_TO": 0.85,
+      "3P%": 44.3,
+      "3PA": 7.8,
+      "FT%": 83.0,
+      "FTA": 2.7,
+      "BPM_est": 7.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Volume letal de 3P (44.3% em quase 8 bolas)",
+        "Reboteador para guarda"
+      ],
+      "concerns": [
+        "Idade avançada"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #44 (NYK)",
+      "career_arc": "Arremessador útil de rotação em NY.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Role player de apoio"
+    }
+  },
+  {
+    "player": "Dillon Brooks",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 45,
+    "position": "SF/SG",
+    "target_team_and_pick": "HOU (#45, p/ MEM)",
+    "origin": "Oregon",
+    "age_at_draft": 21.4,
+    "biometrics": {
+      "height": "6'6\"",
+      "wingspan": "6'6.0\"",
+      "weight": "220 lbs",
+      "vertical_max": "34.5 in",
+      "wingspan_differential": "+0.0 in"
+    },
+    "stats": {
+      "PTS": 16.1,
+      "AST": 2.7,
+      "REB": 3.2,
+      "STL": 1.1,
+      "BLK": 0.5,
+      "TS%": 59.0,
+      "eFG%": 54.9,
+      "USG%": 28.2,
+      "AST_TO": 1.35,
+      "3P%": 40.1,
+      "3PA": 4.1,
+      "FT%": 75.4,
+      "FTA": 4.6,
+      "BPM_est": 7.9
+    },
+    "scout_reports": {
+      "strengths": [
+        "Tenacidade psicológica implacável",
+        "Defesa individual sufocante",
+        "Cestinha clutch em Oregon"
+      ],
+      "concerns": [
+        "Envergadura neutra (6'6\")",
+        "Seleção de chutes desafiadora"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #45 (MEM)",
+      "career_arc": "All-Defensive 2nd Team, pilar de identidade nos Grizzlies e Houston Rockets.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Grande Steal / Defensor All-Defensive de elite"
+    }
+  },
+  {
+    "player": "Sterling Brown",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 46,
+    "position": "SG",
+    "target_team_and_pick": "PHI (#46, p/ MIL)",
+    "origin": "SMU",
+    "age_at_draft": 22.3,
+    "biometrics": {
+      "height": "6'5\"",
+      "wingspan": "6'9.5\"",
+      "weight": "230 lbs",
+      "vertical_max": "36.0 in",
+      "wingspan_differential": "+4.5 in"
+    },
+    "stats": {
+      "PTS": 13.4,
+      "AST": 3.0,
+      "REB": 6.5,
+      "STL": 1.4,
+      "BLK": 0.5,
+      "TS%": 57.0,
+      "eFG%": 53.0,
+      "USG%": 22.0,
+      "AST_TO": 1.5,
+      "3P%": 44.9,
+      "3PA": 4.1,
+      "FT%": 79.1,
+      "FTA": 3.5,
+      "BPM_est": 8.1
+    },
+    "scout_reports": {
+      "strengths": [
+        "Arremessador de 3 físico e defensor"
+      ],
+      "concerns": [
+        "Teto de drible limitado"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #46 (MIL)",
+      "career_arc": "Ala reserva na rotação de Mike Budenholzer.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Role player de rotação"
+    }
+  },
+  {
+    "player": "Ike Anigbogu",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 47,
+    "position": "C",
+    "target_team_and_pick": "Indiana Pacers (#47)",
+    "origin": "UCLA",
+    "age_at_draft": 18.6,
+    "biometrics": {
+      "height": "6'9.75\"",
+      "wingspan": "7'6.25\"",
+      "weight": "252 lbs",
+      "vertical_max": "32.5 in",
+      "wingspan_differential": "+8.5 in"
+    },
+    "stats": {
+      "PTS": 4.7,
+      "AST": 0.2,
+      "REB": 4.0,
+      "STL": 0.2,
+      "BLK": 1.2,
+      "TS%": 57.1,
+      "eFG%": 56.4,
+      "USG%": 18.0,
+      "AST_TO": 0.25,
+      "3P%": 0.0,
+      "3PA": 0.0,
+      "FT%": 53.8,
+      "FTA": 1.8,
+      "BPM_est": 6.0
+    },
+    "scout_reports": {
+      "strengths": [
+        "Envergadura colossal de 7'6.25\" com 18 anos"
+      ],
+      "concerns": [
+        "Joelho cronicamente lesionado"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #47 (IND)",
+      "career_arc": "Lesões precoces impediram desenvolvimento na NBA.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Aposta física de 2ª rodada"
+    }
+  },
+  {
+    "player": "Sindarius Thornwell",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 48,
+    "position": "SG",
+    "target_team_and_pick": "MIL (#48, p/ LAC)",
+    "origin": "South Carolina",
+    "age_at_draft": 22.6,
+    "biometrics": {
+      "height": "6'4.5\"",
+      "wingspan": "6'10.0\"",
+      "weight": "212 lbs",
+      "vertical_max": "36.0 in",
+      "wingspan_differential": "+5.5 in"
+    },
+    "stats": {
+      "PTS": 21.4,
+      "AST": 2.8,
+      "REB": 7.1,
+      "STL": 2.1,
+      "BLK": 1.0,
+      "TS%": 55.4,
+      "eFG%": 49.3,
+      "USG%": 31.0,
+      "AST_TO": 1.12,
+      "3P%": 39.2,
+      "3PA": 4.6,
+      "FT%": 83.0,
+      "FTA": 7.8,
+      "BPM_est": 11.0
+    },
+    "scout_reports": {
+      "strengths": [
+        "Líder da Final Four de South Carolina",
+        "Intensidade e roubos"
+      ],
+      "concerns": [
+        "Idade avançada"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #48 (LAC)",
+      "career_arc": "Defensor reserva combativo nos Clippers.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Reserva de 2ª rodada"
+    }
+  },
+  {
+    "player": "Vlatko Čančar",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 49,
+    "position": "SF/PF",
+    "target_team_and_pick": "Denver Nuggets (#49)",
+    "origin": "Mega Basket (Sérvia)",
+    "age_at_draft": 20.2,
+    "biometrics": {
+      "height": "6'8\"",
+      "wingspan": "6'11.0\"",
+      "weight": "236 lbs",
+      "vertical_max": "33.0 in",
+      "wingspan_differential": "+3.0 in"
+    },
+    "stats": {
+      "PTS": 8.2,
+      "AST": 1.6,
+      "REB": 2.9,
+      "STL": 1.0,
+      "BLK": 0.5,
+      "TS%": 56.0,
+      "eFG%": 52.0,
+      "USG%": 18.0,
+      "AST_TO": 1.2,
+      "3P%": 36.0,
+      "3PA": 2.5,
+      "FT%": 78.0,
+      "FTA": 2.0,
+      "BPM_est": 5.0
+    },
+    "scout_reports": {
+      "strengths": [
+        "Ala inteligente europeu",
+        "Companheiro de seleção de Luka Dončić"
+      ],
+      "concerns": [
+        "Velocidade atlética mediana"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #49 (DEN)",
+      "career_arc": "Campeão da NBA em 2023 com o Denver Nuggets ao lado de Jokić.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Steal de elenco / Campeão NBA"
+    }
+  },
+  {
+    "player": "Mathias Lessort",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 50,
+    "position": "C",
+    "target_team_and_pick": "Philadelphia 76ers (#50)",
+    "origin": "Nanterre 92 (França)",
+    "age_at_draft": 21.7,
+    "biometrics": {
+      "height": "6'9\"",
+      "wingspan": "7'1.0\"",
+      "weight": "250 lbs",
+      "vertical_max": "37.0 in",
+      "wingspan_differential": "+4.0 in"
+    },
+    "stats": {
+      "PTS": 10.2,
+      "AST": 0.7,
+      "REB": 7.2,
+      "STL": 0.7,
+      "BLK": 1.0,
+      "TS%": 60.0,
+      "eFG%": 59.0,
+      "USG%": 22.0,
+      "AST_TO": 0.5,
+      "3P%": 0.0,
+      "3PA": 0.0,
+      "FT%": 61.0,
+      "FTA": 4.0,
+      "BPM_est": 6.5
+    },
+    "scout_reports": {
+      "strengths": [
+        "Energia física pura no garrafão europeu"
+      ],
+      "concerns": [
+        "Sem arremesso fora do aro"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #50 (PHI)",
+      "career_arc": "Tornou-se um dos pivôs mais dominantes da EuroLeague no Panathinaikos.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Estrela de EuroLeague / Draft-and-Stash"
+    }
+  },
+  {
+    "player": "Monte Morris",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 51,
+    "position": "PG",
+    "target_team_and_pick": "Denver Nuggets (#51)",
+    "origin": "Iowa State",
+    "age_at_draft": 21.9,
+    "biometrics": {
+      "height": "6'2.5\"",
+      "wingspan": "6'5.25\"",
+      "weight": "175 lbs",
+      "vertical_max": "33.5 in",
+      "wingspan_differential": "+2.75 in"
+    },
+    "stats": {
+      "PTS": 16.4,
+      "AST": 6.2,
+      "REB": 4.8,
+      "STL": 1.5,
+      "BLK": 0.3,
+      "TS%": 54.4,
+      "eFG%": 51.7,
+      "USG%": 21.8,
+      "AST_TO": 5.17,
+      "3P%": 37.8,
+      "3PA": 3.9,
+      "FT%": 80.2,
+      "FTA": 3.4,
+      "BPM_est": 9.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "AST/TO recorde histórico da NCAA: 5.17!",
+        "Nunca perde a bola",
+        "80.2% FT"
+      ],
+      "concerns": [
+        "Porte franzino",
+        "Falta de explosão no aro"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #51 (DEN)",
+      "career_arc": "Um dos maiores reservas da liga em Denver, comandando o ataque com disciplina cirúrgica.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Grande Steal de 2ª rodada / Armador de elite"
+    }
+  },
+  {
+    "player": "Edmond Sumner",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 52,
+    "position": "PG",
+    "target_team_and_pick": "NOP (#52, p/ IND)",
+    "origin": "Xavier",
+    "age_at_draft": 21.4,
+    "biometrics": {
+      "height": "6'5.5\"",
+      "wingspan": "6'9.0\"",
+      "weight": "186 lbs",
+      "vertical_max": "39.0 in",
+      "wingspan_differential": "+3.5 in"
+    },
+    "stats": {
+      "PTS": 15.0,
+      "AST": 5.0,
+      "REB": 4.3,
+      "STL": 1.1,
+      "BLK": 0.8,
+      "TS%": 55.4,
+      "eFG%": 51.5,
+      "USG%": 26.0,
+      "AST_TO": 1.7,
+      "3P%": 27.3,
+      "3PA": 2.5,
+      "FT%": 73.5,
+      "FTA": 6.2,
+      "BPM_est": 7.5
+    },
+    "scout_reports": {
+      "strengths": [
+        "Tamanho de 6'5.5\" para armador e velocidade"
+      ],
+      "concerns": [
+        "Rompimento de LCA em Xavier"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #52 (IND)",
+      "career_arc": "Armador reserva veloz em Indiana e Brooklyn.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Reserva de rotação útil"
+    }
+  },
+  {
+    "player": "Kadeem Allen",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 53,
+    "position": "SG",
+    "target_team_and_pick": "Boston Celtics (#53)",
+    "origin": "Arizona",
+    "age_at_draft": 24.4,
+    "biometrics": {
+      "height": "6'2.5\"",
+      "wingspan": "6'9.25\"",
+      "weight": "193 lbs",
+      "vertical_max": "35.5 in",
+      "wingspan_differential": "+6.75 in"
+    },
+    "stats": {
+      "PTS": 9.8,
+      "AST": 3.0,
+      "REB": 4.0,
+      "STL": 1.6,
+      "BLK": 0.6,
+      "TS%": 56.4,
+      "eFG%": 50.8,
+      "USG%": 19.5,
+      "AST_TO": 1.5,
+      "3P%": 42.7,
+      "3PA": 1.9,
+      "FT%": 74.1,
+      "FTA": 4.5,
+      "BPM_est": 6.8
+    },
+    "scout_reports": {
+      "strengths": [
+        "Defesa de perímetro dura",
+        "Envergadura de 6'9.25\""
+      ],
+      "concerns": [
+        "Mais de 24 anos no draft"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #53 (BOS)",
+      "career_arc": "Reserva nos Celtics e Knicks.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Reserva de 2ª rodada"
+    }
+  },
+  {
+    "player": "Alec Peters",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 54,
+    "position": "PF",
+    "target_team_and_pick": "Phoenix Suns (#54)",
+    "origin": "Valparaiso",
+    "age_at_draft": 22.2,
+    "biometrics": {
+      "height": "6'8.75\"",
+      "wingspan": "6'11.0\"",
+      "weight": "232 lbs",
+      "vertical_max": "32.0 in",
+      "wingspan_differential": "+2.25 in"
+    },
+    "stats": {
+      "PTS": 23.0,
+      "AST": 2.2,
+      "REB": 10.1,
+      "STL": 0.8,
+      "BLK": 0.4,
+      "TS%": 59.8,
+      "eFG%": 52.8,
+      "USG%": 33.5,
+      "AST_TO": 1.05,
+      "3P%": 36.3,
+      "3PA": 5.7,
+      "FT%": 88.7,
+      "FTA": 8.4,
+      "BPM_est": 9.5
+    },
+    "scout_reports": {
+      "strengths": [
+        "23 PPG com 88.7% no lance livre",
+        "Volume de 3P"
+      ],
+      "concerns": [
+        "Defesa lenta no espaço"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #54 (PHX)",
+      "career_arc": "Teve jogo de 36 pontos em Phoenix; virou estrela de EuroLeague no Olympiacos.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Arremessador de apoio / Estrela na Europa"
+    }
+  },
+  {
+    "player": "Nigel Williams-Goss",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 55,
+    "position": "PG",
+    "target_team_and_pick": "Utah Jazz (#55)",
+    "origin": "Gonzaga",
+    "age_at_draft": 22.7,
+    "biometrics": {
+      "height": "6'3\"",
+      "wingspan": "6'7.0\"",
+      "weight": "190 lbs",
+      "vertical_max": "34.5 in",
+      "wingspan_differential": "+4.0 in"
+    },
+    "stats": {
+      "PTS": 16.8,
+      "AST": 4.7,
+      "REB": 6.0,
+      "STL": 1.7,
+      "BLK": 0.1,
+      "TS%": 58.7,
+      "eFG%": 54.3,
+      "USG%": 24.5,
+      "AST_TO": 2.24,
+      "3P%": 36.8,
+      "3PA": 2.9,
+      "FT%": 86.7,
+      "FTA": 4.2,
+      "BPM_est": 9.4
+    },
+    "scout_reports": {
+      "strengths": [
+        "Líder da equipe finalista de Gonzaga",
+        "86.7% FT"
+      ],
+      "concerns": [
+        "Falta de explosão atlética"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #55 (UTA)",
+      "career_arc": "Carreira sólida na EuroLeague (Real Madrid e Olympiacos).",
+      "all_star_appearances": 0,
+      "historical_verdict": "Reserva de 2ª rodada / EuroLeague"
+    }
+  },
+  {
+    "player": "Jabari Bird",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 56,
+    "position": "SG",
+    "target_team_and_pick": "Boston Celtics (#56)",
+    "origin": "California",
+    "age_at_draft": 22.9,
+    "biometrics": {
+      "height": "6'6\"",
+      "wingspan": "6'8.0\"",
+      "weight": "198 lbs",
+      "vertical_max": "37.0 in",
+      "wingspan_differential": "+2.0 in"
+    },
+    "stats": {
+      "PTS": 14.3,
+      "AST": 1.0,
+      "REB": 4.7,
+      "STL": 0.7,
+      "BLK": 0.4,
+      "TS%": 53.0,
+      "eFG%": 51.0,
+      "USG%": 23.0,
+      "AST_TO": 0.9,
+      "3P%": 36.5,
+      "3PA": 6.0,
+      "FT%": 76.0,
+      "FTA": 2.5,
+      "BPM_est": 5.0
+    },
+    "scout_reports": {
+      "strengths": [
+        "Arremessador atlético"
+      ],
+      "concerns": [
+        "Problemas graves fora das quadras"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #56 (BOS)",
+      "career_arc": "Problemas legais encerraram carreira prematuramente.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Fora da liga"
+    }
+  },
+  {
+    "player": "Aleksandar Vezenkov",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 57,
+    "position": "PF",
+    "target_team_and_pick": "Brooklyn Nets (#57)",
+    "origin": "Barcelona (Espanha)",
+    "age_at_draft": 21.8,
+    "biometrics": {
+      "height": "6'9\"",
+      "wingspan": "6'11.0\"",
+      "weight": "225 lbs",
+      "vertical_max": "30.0 in",
+      "wingspan_differential": "+2.0 in"
+    },
+    "stats": {
+      "PTS": 9.0,
+      "AST": 1.1,
+      "REB": 3.2,
+      "STL": 0.8,
+      "BLK": 0.2,
+      "TS%": 62.0,
+      "eFG%": 58.0,
+      "USG%": 19.0,
+      "AST_TO": 1.2,
+      "3P%": 39.5,
+      "3PA": 3.0,
+      "FT%": 84.0,
+      "FTA": 2.2,
+      "BPM_est": 7.0
+    },
+    "scout_reports": {
+      "strengths": [
+        "Movimentação sem a bola e arremesso puro de canhota",
+        "QI de jogo de elite"
+      ],
+      "concerns": [
+        "Lentidão lateral defensiva"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #57 (BKN)",
+      "career_arc": "MVP da EuroLeague em 2023, atuou nos Sacramento Kings antes de retornar à Europa.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Steal de EuroLeague / MVP Europeu"
+    }
+  },
+  {
+    "player": "Ognjen Jaramaz",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 58,
+    "position": "PG",
+    "target_team_and_pick": "New York Knicks (#58)",
+    "origin": "Mega Basket (Sérvia)",
+    "age_at_draft": 21.8,
+    "biometrics": {
+      "height": "6'4\"",
+      "wingspan": "6'6.0\"",
+      "weight": "190 lbs",
+      "vertical_max": "35.0 in",
+      "wingspan_differential": "+2.0 in"
+    },
+    "stats": {
+      "PTS": 14.5,
+      "AST": 3.6,
+      "REB": 3.2,
+      "STL": 2.0,
+      "BLK": 0.2,
+      "TS%": 53.0,
+      "eFG%": 49.0,
+      "USG%": 24.0,
+      "AST_TO": 1.3,
+      "3P%": 32.0,
+      "3PA": 4.5,
+      "FT%": 76.0,
+      "FTA": 4.0,
+      "BPM_est": 5.5
+    },
+    "scout_reports": {
+      "strengths": [
+        "Defesa ativa e velocidade"
+      ],
+      "concerns": [
+        "Arremesso inconsistente"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #58 (NYK)",
+      "career_arc": "Permaneceu na Europa como titular na Liga Adriática e EuroLeague.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Draft-and-stash europeu"
+    }
+  },
+  {
+    "player": "Jaron Blossomgame",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 59,
+    "position": "SF",
+    "target_team_and_pick": "San Antonio Spurs (#59)",
+    "origin": "Clemson",
+    "age_at_draft": 23.7,
+    "biometrics": {
+      "height": "6'7\"",
+      "wingspan": "6'10.0\"",
+      "weight": "220 lbs",
+      "vertical_max": "35.0 in",
+      "wingspan_differential": "+3.0 in"
+    },
+    "stats": {
+      "PTS": 17.7,
+      "AST": 1.5,
+      "REB": 6.3,
+      "STL": 0.8,
+      "BLK": 0.9,
+      "TS%": 56.5,
+      "eFG%": 52.0,
+      "USG%": 27.0,
+      "AST_TO": 0.8,
+      "3P%": 25.5,
+      "3PA": 3.0,
+      "FT%": 71.4,
+      "FTA": 5.5,
+      "BPM_est": 6.5
+    },
+    "scout_reports": {
+      "strengths": [
+        "Físico maduro e experiência"
+      ],
+      "concerns": [
+        "Regressão no arremesso de 3 no último ano"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #59 (SAS)",
+      "career_arc": "Passagem breve na NBA e sólida carreira no Mônaco na EuroLeague.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Reserva de 2ª rodada"
+    }
+  },
+  {
+    "player": "Alpha Kaba",
+    "class_year": 2017,
+    "round": 2,
+    "pick": 60,
+    "position": "C",
+    "target_team_and_pick": "Atlanta Hawks (#60)",
+    "origin": "Mega Basket (Sérvia)",
+    "age_at_draft": 21.3,
+    "biometrics": {
+      "height": "6'10\"",
+      "wingspan": "7'5.0\"",
+      "weight": "226 lbs",
+      "vertical_max": "34.0 in",
+      "wingspan_differential": "+7.0 in"
+    },
+    "stats": {
+      "PTS": 10.9,
+      "AST": 0.7,
+      "REB": 7.5,
+      "STL": 1.2,
+      "BLK": 1.5,
+      "TS%": 59.0,
+      "eFG%": 58.0,
+      "USG%": 20.0,
+      "AST_TO": 0.4,
+      "3P%": 0.0,
+      "3PA": 0.0,
+      "FT%": 65.0,
+      "FTA": 3.5,
+      "BPM_est": 6.0
+    },
+    "scout_reports": {
+      "strengths": [
+        "Envergadura de 7'5\" e rebotes na Europa"
+      ],
+      "concerns": [
+        "Falta de fundamentos ofensivos"
+      ]
+    },
+    "historical_reality": {
+      "nba_pick": "Pick #60 (ATL)",
+      "career_arc": "Nunca jogou na NBA; pivô de ligas europeias e chinesas.",
+      "all_star_appearances": 0,
+      "historical_verdict": "Última escolha do Draft"
+    }
+  }
+]

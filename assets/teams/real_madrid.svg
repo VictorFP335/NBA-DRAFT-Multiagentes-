@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <radialGradient id="rmGold" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFE885"/>
+      <stop offset="100%" stop-color="#E1B846"/>
+    </radialGradient>
+    <linearGradient id="rmPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7B2CBF"/>
+      <stop offset="100%" stop-color="#4A0E8F"/>
+    </linearGradient>
+  </defs>
+  <!-- Outer Gold Ring -->
+  <circle cx="60" cy="65" r="46" fill="#FFFFFF" stroke="url(#rmGold)" stroke-width="7"/>
+  <!-- Diagonal Purple Stripe -->
+  <clipPath id="circleClip">
+    <circle cx="60" cy="65" r="42"/>
+  </clipPath>
+  <g clip-path="url(#circleClip)">
+    <polygon points="18,105 102,25 115,38 31,118" fill="url(#rmPurple)"/>
+  </g>
+  <!-- Royal Crown -->
+  <path d="M38,28 L43,15 L60,24 L77,15 L82,28 Z" fill="url(#rmGold)" stroke="#9E7616" stroke-width="1.5"/>
+  <circle cx="43" cy="14" r="3" fill="#D90429"/>
+  <circle cx="60" cy="11" r="3.5" fill="#FFE885"/>
+  <circle cx="77" cy="14" r="3" fill="#D90429"/>
+  <path d="M57,7 L63,7 M60,4 L60,10" stroke="#FFE885" stroke-width="2"/>
+  <!-- Monogram RMCF -->
+  <text x="60" y="73" font-family="'Arial Black', sans-serif" font-size="24" font-weight="900" fill="#E1B846" text-anchor="middle" letter-spacing="-1">RM</text>
+  <text x="60" y="88" font-family="'Arial', sans-serif" font-size="8" font-weight="bold" fill="#1E293B" text-anchor="middle" letter-spacing="1.5">REAL MADRID</text>
+  <text x="60" y="98" font-family="'Arial', sans-serif" font-size="6.5" font-weight="bold" fill="#7B2CBF" text-anchor="middle">EUROLEAGUE</text>
+</svg>

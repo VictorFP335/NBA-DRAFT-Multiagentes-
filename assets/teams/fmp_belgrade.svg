@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <path d="M20,15 L100,15 Q100,80 60,110 Q20,80 20,15 Z" fill="#DC2626" stroke="#FFFFFF" stroke-width="3"/>
+  <text x="60" y="55" font-family="'Arial Black', sans-serif" font-size="22" font-weight="900" fill="#FFFFFF" text-anchor="middle">FMP</text>
+  <text x="60" y="75" font-family="'Arial Black', sans-serif" font-size="9" font-weight="bold" fill="#FEF08A" text-anchor="middle">BELGRADE</text>
+  <text x="60" y="95" font-family="'Arial', sans-serif" font-size="7" font-weight="bold" fill="#FFFFFF" text-anchor="middle">SERBIA</text>
+</svg>

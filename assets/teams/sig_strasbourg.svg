@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="sigRed" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </linearGradient>
+  </defs>
+  <path d="M20,15 L100,15 Q100,75 60,110 Q20,75 20,15 Z" fill="url(#sigRed)" stroke="#FFFFFF" stroke-width="3"/>
+  <circle cx="60" cy="55" r="28" fill="#FFFFFF"/>
+  <circle cx="60" cy="55" r="24" fill="#F97316" stroke="#C2410C" stroke-width="1.5"/>
+  <path d="M36,55 Q60,45 84,55 M60,31 L60,79" stroke="#C2410C" stroke-width="1.5" fill="none"/>
+  <text x="60" y="52" font-family="'Arial Black', sans-serif" font-size="16" font-weight="900" fill="#FFFFFF" text-anchor="middle" stroke="#000000" stroke-width="0.8">SIG</text>
+  <text x="60" y="65" font-family="'Arial Black', sans-serif" font-size="9" font-weight="bold" fill="#FFFFFF" text-anchor="middle">STRASBOURG</text>
+  <text x="60" y="95" font-family="'Arial', sans-serif" font-size="8" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">FRANCE (LNB)</text>
+</svg>
